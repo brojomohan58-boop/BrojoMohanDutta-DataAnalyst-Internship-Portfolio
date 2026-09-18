@@ -98,7 +98,7 @@ The first phase focused on understanding the raw sales dataset, identifying data
 
 ### 🔗 Task 1 Repository
 
-**[Link to Repo]()**
+**[Link to Repo](https://github.com/brojomohan58-boop/ApexPlanet-Data-Storytelling-Statistical-Validation)**
 
 ---
 
@@ -150,7 +150,7 @@ The analysis included:
 
 ### 🔗 Task 2 Repository
 
-**[Link to Repo]()**
+**[Link to Repo](https://github.com/brojomohan58-boop/ApexPlanet-Data-Storytelling-Statistical-Validation)**
 
 ---
 
@@ -222,7 +222,7 @@ The interactive dashboard contains two major analytical views.
 
 ### 🔗 Task 3 Repository
 
-**[Link to Repo]()**
+**[Link to Repo](https://github.com/brojomohan58-boop/ApexPlanet-Data-Storytelling-Statistical-Validation)**
 
 ---
 
@@ -341,7 +341,7 @@ The capstone presentation brings together:
 
 **Data Wrangling → EDA & BI → RFM Segmentation → Statistical Validation → Business Strategy**
 
-📊 **[View Final Presentation Deck]()**
+📊 **[View Final Presentation Deck](https://github.com/brojomohan58-boop/ApexPlanet-Data-Storytelling-Statistical-Validation)**
 
 ---
 
