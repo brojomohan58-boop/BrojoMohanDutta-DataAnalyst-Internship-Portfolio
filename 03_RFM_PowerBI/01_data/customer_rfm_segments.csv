@@ -1,0 +1,948 @@
+Customer_ID,Customer_Name,City,Age_Group,Gender,Recency_Days,Frequency,Monetary,Avg_Order_Value,R_Score,F_Score,M_Score,RFM_Total,Customer_Segment
+CUST1790,Customer_12,Hyderabad,36-45,Male,277,1,12225.22,12225.22,1,1,1,3,Lost
+CUST8199,Customer_39,Gaya,56-65,Female,278,1,10864.96,10864.96,1,1,1,3,Lost
+CUST9945,Customer_495,Hyderabad,18-25,Male,281,1,3375.35,3375.35,1,1,1,3,Lost
+CUST8600,Customer_53,Hyderabad,36-45,Male,288,1,10884.12,10884.12,1,1,1,3,Lost
+CUST5355,Customer_108,Delhi,18-25,Male,288,1,47542,47542,1,1,1,3,Lost
+CUST1442,Customer_371,Pune,18-25,Female,292,1,27918.98,27918.98,1,1,1,3,Lost
+CUST3473,Customer_20,Hyderabad,56-65,Male,292,1,18903.96,18903.96,1,1,1,3,Lost
+CUST5375,Customer_265,Bengaluru,56-65,Male,297,1,36587.92,36587.92,1,1,1,3,Lost
+CUST1049,Customer_243,Hyderabad,46-55,Female,299,1,16714.64,16714.64,1,1,1,3,Lost
+CUST3747,Customer_322,Mumbai,46-55,Female,300,1,23973.18,23973.18,1,1,1,3,Lost
+CUST1766,Customer_319,Kolkata,26-35,Male,303,1,7119.05,7119.05,1,1,1,3,Lost
+CUST7285,Customer_493,Hyderabad,18-25,Female,303,1,9639.44,9639.44,1,1,1,3,Lost
+CUST8759,Customer_20,Hyderabad,56-65,Female,308,1,22534.47,22534.47,1,1,1,3,Lost
+CUST4284,Customer_270,Patna,46-55,Male,308,1,30640.69,30640.69,1,1,1,3,Lost
+CUST4438,Customer_133,Kolkata,56-65,Female,316,1,29540.26,29540.26,1,1,1,3,Lost
+CUST6706,Customer_215,Mumbai,46-55,Male,322,1,45333.96,45333.96,1,1,1,3,Lost
+CUST3075,Customer_249,Bengaluru,46-55,Male,323,1,8162.84,8162.84,1,1,1,3,Lost
+CUST3778,Customer_96,Bengaluru,36-45,Female,326,1,47848,47848,1,1,1,3,Lost
+CUST2384,Customer_365,Gaya,46-55,Male,326,1,30394.74,30394.74,1,1,1,3,Lost
+CUST1215,Customer_19,Gaya,26-35,Male,341,1,10367,10367,1,1,1,3,Lost
+CUST3843,Customer_209,Bengaluru,36-45,Female,181,1,37727.1,37727.1,2,1,1,4,Lost
+CUST4888,Customer_13,Pune,36-45,Male,202,1,40275.15,40275.15,2,1,1,4,Lost
+CUST9567,Customer_218,Delhi,36-45,Male,203,1,33193.9,33193.9,2,1,1,4,Lost
+CUST3677,Customer_459,Patna,26-35,Female,203,1,17041.21,17041.21,2,1,1,4,Lost
+CUST5057,Customer_158,Patna,46-55,Female,208,1,30227.94,30227.94,2,1,1,4,Lost
+CUST2812,Customer_249,Gaya,46-55,Male,218,1,767.61,767.61,2,1,1,4,Lost
+CUST2537,Customer_32,Bengaluru,26-35,Female,220,1,1005.21,1005.21,2,1,1,4,Lost
+CUST1258,Customer_443,Hyderabad,36-45,Male,229,1,47389.09,47389.09,2,1,1,4,Lost
+CUST6432,Customer_194,Mumbai,56-65,Male,231,1,46021.88,46021.88,2,1,1,4,Lost
+CUST6621,Customer_104,Mumbai,18-25,Female,233,1,34477.47,34477.47,2,1,1,4,Lost
+CUST5063,Customer_50,Mumbai,26-35,Female,234,1,15831.03,15831.03,2,1,1,4,Lost
+CUST2231,Customer_38,Delhi,46-55,Male,235,1,1144.78,1144.78,2,1,1,4,Lost
+CUST9642,Customer_162,Delhi,46-55,Male,242,1,42454.26,42454.26,2,1,1,4,Lost
+CUST9284,Customer_212,Kolkata,36-45,Female,261,1,19210.3,19210.3,2,1,1,4,Lost
+CUST4488,Customer_414,Kolkata,36-45,Female,268,1,47539.35,47539.35,2,1,1,4,Lost
+CUST1104,Customer_328,Hyderabad,56-65,Female,275,1,90746.36,90746.36,1,1,2,4,Lost
+CUST4132,Customer_47,Unknown,36-45,Female,276,1,7894.56,7894.56,1,2,1,4,Lost
+CUST2157,Customer_31,Unknown,56-65,Male,278,1,86397.04,86397.04,1,1,2,4,Lost
+CUST2671,Customer_58,Delhi,46-55,Male,285,1,23398.57,23398.57,1,2,1,4,Lost
+CUST9364,Customer_352,Gaya,56-65,Female,287,1,99559.14,99559.14,1,1,2,4,Lost
+CUST6136,Customer_328,Hyderabad,18-25,Male,288,1,71273.3,71273.3,1,1,2,4,Lost
+CUST1962,Customer_116,Delhi,18-25,Male,291,1,55802.3,55802.3,1,1,2,4,Lost
+CUST9488,Customer_147,Pune,36-45,Male,295,1,58079.12,58079.12,1,1,2,4,Lost
+CUST3397,Customer_101,Gaya,36-45,Male,300,1,26461.65,26461.65,1,2,1,4,Lost
+CUST4169,Customer_307,Hyderabad,36-45,Female,306,1,25982,25982,1,2,1,4,Lost
+CUST8467,Customer_104,Bengaluru,18-25,Male,307,1,8582.49,8582.49,1,2,1,4,Lost
+CUST9776,Customer_345,Delhi,46-55,Female,308,1,34541.88,34541.88,1,2,1,4,Lost
+CUST1284,Customer_375,Bengaluru,26-35,Male,308,1,105461.08,105461.08,1,1,2,4,Lost
+CUST7186,Customer_150,Mumbai,36-45,Female,309,1,10625.65,10625.65,1,2,1,4,Lost
+CUST5529,Customer_227,Bengaluru,26-35,Female,311,1,19808.39,19808.39,1,2,1,4,Lost
+CUST6987,Customer_107,Gaya,26-35,Female,314,1,6976.56,6976.56,1,2,1,4,Lost
+CUST9543,Customer_448,Bengaluru,36-45,Female,319,1,91618.18,91618.18,1,1,2,4,Lost
+CUST1577,Customer_59,Delhi,36-45,Male,320,1,36943.51,36943.51,1,2,1,4,Lost
+CUST3345,Customer_202,Gaya,26-35,Female,324,1,58809.5,58809.5,1,1,2,4,Lost
+CUST1197,Customer_419,Pune,36-45,Male,324,1,5944.12,5944.12,1,2,1,4,Lost
+CUST2051,Customer_103,Bengaluru,26-35,Male,327,1,109237.86,109237.86,1,1,2,4,Lost
+CUST1399,Customer_431,Gaya,56-65,Male,339,1,74022.24,74022.24,1,1,2,4,Lost
+CUST2604,Customer_356,Kolkata,36-45,Male,343,1,51372.25,51372.25,1,1,2,4,Lost
+CUST3194,Customer_114,Kolkata,26-35,Male,345,1,51591.1,51591.1,1,1,2,4,Lost
+CUST6037,Customer_121,Patna,26-35,Male,354,1,3586.58,3586.58,1,2,1,4,Lost
+CUST4947,Customer_352,Bengaluru,56-65,Male,358,1,37605.65,37605.65,1,2,1,4,Lost
+CUST8877,Customer_105,Kolkata,18-25,Female,361,1,60403.62,60403.62,1,1,2,4,Lost
+CUST4849,Customer_209,Patna,26-35,Male,362,1,28812.06,28812.06,1,2,1,4,Lost
+CUST7981,Customer_196,Mumbai,46-55,Male,85,1,1495.14,1495.14,3,1,1,5,Potential Loyalist
+CUST1691,Customer_177,Mumbai,46-55,Male,86,1,14209.86,14209.86,3,1,1,5,Potential Loyalist
+CUST7588,Customer_67,Pune,46-55,Male,89,1,27898.64,27898.64,3,1,1,5,Potential Loyalist
+CUST8851,Customer_118,Kolkata,56-65,Male,94,1,3753.78,3753.78,3,1,1,5,Potential Loyalist
+CUST8318,Customer_189,Kolkata,26-35,Female,99,1,6050.27,6050.27,3,1,1,5,Potential Loyalist
+CUST2181,Customer_125,Bengaluru,36-45,Female,102,1,22401.12,22401.12,3,1,1,5,Potential Loyalist
+CUST6654,Customer_66,Pune,36-45,Female,104,1,15439.6,15439.6,3,1,1,5,Potential Loyalist
+CUST7178,Customer_478,Bengaluru,56-65,Male,107,1,16185.56,16185.56,3,1,1,5,Potential Loyalist
+CUST5406,Customer_164,Kolkata,26-35,Male,112,1,47545.65,47545.65,3,1,1,5,Potential Loyalist
+CUST6921,Customer_68,Patna,56-65,Female,115,1,11206.86,11206.86,3,1,1,5,Potential Loyalist
+CUST9324,Customer_58,Hyderabad,56-65,Female,118,1,12494.97,12494.97,3,1,1,5,Potential Loyalist
+CUST5829,Customer_37,Delhi,26-35,Male,119,1,39956.16,39956.16,3,1,1,5,Potential Loyalist
+CUST9882,Customer_103,Kolkata,26-35,Female,120,1,33198,33198,3,1,1,5,Potential Loyalist
+CUST5367,Customer_499,Hyderabad,18-25,Female,123,1,35099.34,35099.34,3,1,1,5,Potential Loyalist
+CUST1189,Customer_490,Pune,36-45,Female,125,1,36307.74,36307.74,3,1,1,5,Potential Loyalist
+CUST3212,Customer_415,Gaya,26-35,Male,146,1,42764.32,42764.32,3,1,1,5,Potential Loyalist
+CUST6860,Customer_168,Bengaluru,26-35,Male,146,1,30210.72,30210.72,3,1,1,5,Potential Loyalist
+CUST5133,Customer_86,Pune,56-65,Female,146,1,19382.82,19382.82,3,1,1,5,Potential Loyalist
+CUST1713,Customer_457,Bengaluru,26-35,Female,147,1,31739.18,31739.18,3,1,1,5,Potential Loyalist
+CUST7226,Customer_421,Mumbai,46-55,Male,147,1,3859.08,3859.08,3,1,1,5,Potential Loyalist
+CUST3499,Customer_139,Mumbai,18-25,Male,173,1,40383.06,40383.06,3,1,1,5,Potential Loyalist
+CUST2967,Customer_483,Mumbai,46-55,Female,175,1,36396.7,36396.7,3,1,1,5,Potential Loyalist
+CUST1183,Customer_189,Gaya,18-25,Female,180,1,49324.8,49324.8,2,1,2,5,Lost
+CUST9055,Customer_359,Gaya,56-65,Male,181,1,47870.04,47870.04,2,1,2,5,Lost
+CUST8311,Customer_225,Bengaluru,26-35,Male,191,1,45048.9,45048.9,2,2,1,5,Lost
+CUST9812,Customer_333,Pune,18-25,Female,195,1,28196.26,28196.26,2,2,1,5,Lost
+CUST7177,Customer_40,Hyderabad,18-25,Male,200,1,75415.95,75415.95,2,1,2,5,Lost
+CUST9900,Customer_496,Bengaluru,26-35,Male,204,1,97972.96,97972.96,2,1,2,5,Lost
+CUST5318,Customer_376,Bengaluru,56-65,Male,210,1,93084.36,93084.36,2,1,2,5,Lost
+CUST5168,Customer_295,Hyderabad,18-25,Male,211,1,54797.1,54797.1,2,1,2,5,Lost
+CUST3602,Customer_295,Pune,46-55,Male,212,1,67401.84,67401.84,2,1,2,5,Lost
+CUST1780,Customer_250,Hyderabad,56-65,Male,216,1,105473.12,105473.12,2,1,2,5,Lost
+CUST8425,Customer_254,Delhi,46-55,Male,218,1,100147.38,100147.38,2,1,2,5,Lost
+CUST1753,Customer_493,Hyderabad,56-65,Female,226,1,3239.94,3239.94,2,2,1,5,Lost
+CUST9563,Customer_166,Gaya,18-25,Male,228,1,35133.76,35133.76,2,2,1,5,Lost
+CUST4073,Customer_353,Pune,18-25,Female,229,1,92444.73,92444.73,2,1,2,5,Lost
+CUST4943,Customer_198,Mumbai,26-35,Male,236,1,12420.48,12420.48,2,2,1,5,Lost
+CUST4810,Customer_416,Kolkata,18-25,Male,237,1,97167.28,97167.28,2,1,2,5,Lost
+CUST3820,Customer_312,Delhi,46-55,Female,237,1,100104.3,100104.3,2,1,2,5,Lost
+CUST1038,Customer_454,Patna,26-35,Male,241,1,37068.4,37068.4,2,2,1,5,Lost
+CUST9217,Customer_448,Delhi,36-45,Female,241,1,22073.4,22073.4,2,2,1,5,Lost
+CUST5835,Customer_362,Unknown,18-25,Male,241,1,56623.16,56623.16,2,1,2,5,Lost
+CUST7082,Customer_492,Bengaluru,18-25,Female,241,1,100658,100658,2,1,2,5,Lost
+CUST1367,Customer_48,Bengaluru,18-25,Female,243,1,43529.29,43529.29,2,2,1,5,Lost
+CUST3080,Customer_378,Pune,36-45,Female,244,1,43789.89,43789.89,2,2,1,5,Lost
+CUST3867,Customer_54,Unknown,36-45,Female,250,1,25348.95,25348.95,2,2,1,5,Lost
+CUST2088,Customer_382,Hyderabad,56-65,Female,250,1,24428.2,24428.2,2,2,1,5,Lost
+CUST5903,Customer_396,Hyderabad,26-35,Female,251,1,13424.67,13424.67,2,2,1,5,Lost
+CUST6413,Customer_490,Patna,46-55,Female,253,1,96340.16,96340.16,2,1,2,5,Lost
+CUST7988,Customer_383,Mumbai,36-45,Female,256,1,3992.85,3992.85,2,2,1,5,Lost
+CUST9846,Customer_298,Patna,56-65,Female,263,1,64707.84,64707.84,2,1,2,5,Lost
+CUST6540,Customer_230,Kolkata,18-25,Male,267,1,87368.96,87368.96,2,1,2,5,Lost
+CUST2742,Customer_216,Delhi,18-25,Female,272,1,107330.05,107330.05,2,1,2,5,Lost
+CUST6531,Customer_218,Kolkata,56-65,Male,273,1,78327.66,78327.66,1,2,2,5,Lost
+CUST2804,Customer_115,Pune,26-35,Female,274,1,90508.14,90508.14,1,2,2,5,Lost
+CUST8575,Customer_481,Patna,18-25,Male,280,1,38929.37,38929.37,1,3,1,5,At Risk
+CUST9354,Customer_241,Patna,46-55,Female,281,1,42782.38,42782.38,1,3,1,5,At Risk
+CUST6828,Customer_222,Bengaluru,46-55,Male,282,1,127614.42,127614.42,1,1,3,5,Potential Loyalist
+CUST6028,Customer_58,Delhi,36-45,Male,283,1,82132.92,82132.92,1,2,2,5,Lost
+CUST3186,Customer_412,Delhi,56-65,Female,285,1,156219.8,156219.8,1,1,3,5,Potential Loyalist
+CUST9379,Customer_263,Kolkata,36-45,Female,286,1,9009.36,9009.36,1,3,1,5,At Risk
+CUST2708,Customer_57,Delhi,46-55,Male,287,1,189759.6,189759.6,1,1,3,5,Potential Loyalist
+CUST8908,Customer_190,Pune,56-65,Male,290,1,2344.98,2344.98,1,3,1,5,At Risk
+CUST8660,Customer_213,Patna,36-45,Female,296,1,203722.48,203722.48,1,1,3,5,Potential Loyalist
+CUST8975,Customer_315,Gaya,36-45,Female,300,1,191586.8,191586.8,1,1,3,5,Potential Loyalist
+CUST4651,Customer_359,Kolkata,46-55,Male,301,1,99449.28,99449.28,1,2,2,5,Lost
+CUST8352,Customer_400,Gaya,36-45,Male,304,1,210254.64,210254.64,1,1,3,5,Potential Loyalist
+CUST1557,Customer_87,Mumbai,36-45,Female,309,1,123371.82,123371.82,1,1,3,5,Potential Loyalist
+CUST3625,Customer_382,Kolkata,46-55,Female,310,1,105841.56,105841.56,1,2,2,5,Lost
+CUST1170,Customer_67,Mumbai,36-45,Male,312,1,103361.36,103361.36,1,2,2,5,Lost
+CUST7371,Customer_463,Bengaluru,36-45,Female,312,1,39342.98,39342.98,1,3,1,5,At Risk
+CUST9501,Customer_241,Delhi,36-45,Male,315,1,25911.09,25911.09,1,3,1,5,At Risk
+CUST8859,Customer_53,Unknown,36-45,Male,315,1,141013.88,141013.88,1,1,3,5,Potential Loyalist
+CUST3542,Customer_156,Patna,46-55,Male,315,1,47618.43,47618.43,1,3,1,5,At Risk
+CUST2256,Customer_284,Hyderabad,46-55,Male,316,1,115969.35,115969.35,1,1,3,5,Potential Loyalist
+CUST5091,Customer_375,Bengaluru,46-55,Male,317,1,213995.1,213995.1,1,1,3,5,Potential Loyalist
+CUST7185,Customer_285,Delhi,56-65,Female,321,1,98255.31,98255.31,1,2,2,5,Lost
+CUST6241,Customer_242,Hyderabad,46-55,Male,322,1,18127.66,18127.66,1,3,1,5,At Risk
+CUST5232,Customer_395,Gaya,46-55,Male,323,1,62434.24,62434.24,1,2,2,5,Lost
+CUST4629,Customer_167,Patna,36-45,Female,327,1,75833.37,75833.37,1,2,2,5,Lost
+CUST8075,Customer_401,Patna,56-65,Female,328,1,38212.75,38212.75,1,3,1,5,At Risk
+CUST2031,Customer_309,Gaya,36-45,Female,328,1,34616.52,34616.52,1,3,1,5,At Risk
+CUST2935,Customer_26,Delhi,26-35,Male,332,1,30364.5,30364.5,1,3,1,5,At Risk
+CUST2260,Customer_325,Kolkata,46-55,Male,336,1,11539.95,11539.95,1,3,1,5,At Risk
+CUST4941,Customer_457,Mumbai,46-55,Female,336,1,60395.06,60395.06,1,2,2,5,Lost
+CUST2457,Customer_462,Kolkata,46-55,Male,337,1,43633.34,43633.34,1,3,1,5,At Risk
+CUST8841,Customer_407,Patna,36-45,Female,337,1,174065.2,174065.2,1,1,3,5,Potential Loyalist
+CUST6762,Customer_235,Delhi,46-55,Male,339,1,10934.02,10934.02,1,3,1,5,At Risk
+CUST6142,Customer_410,Patna,36-45,Male,341,1,128393.8,128393.8,1,1,3,5,Potential Loyalist
+CUST9619,Customer_491,Pune,26-35,Male,345,1,3839.04,3839.04,1,3,1,5,At Risk
+CUST8537,Customer_494,Hyderabad,46-55,Female,346,1,39400.4,39400.4,1,3,1,5,At Risk
+CUST3522,Customer_67,Bengaluru,18-25,Male,347,1,30869.01,30869.01,1,3,1,5,At Risk
+CUST8722,Customer_475,Mumbai,18-25,Male,356,1,196134.84,196134.84,1,1,3,5,Potential Loyalist
+CUST5505,Customer_189,Bengaluru,36-45,Female,357,1,210141.3,210141.3,1,1,3,5,Potential Loyalist
+CUST4414,Customer_194,Delhi,46-55,Female,357,1,15617.29,15617.29,1,3,1,5,At Risk
+CUST6578,Customer_194,Hyderabad,56-65,Female,358,1,19202.88,19202.88,1,3,1,5,At Risk
+CUST1175,Customer_472,Gaya,18-25,Female,360,1,113673.3,113673.3,1,1,3,5,Potential Loyalist
+CUST2632,Customer_321,Kolkata,56-65,Male,360,1,67601.66,67601.66,1,2,2,5,Lost
+CUST7187,Customer_149,Patna,36-45,Male,363,1,16633.85,16633.85,1,3,1,5,At Risk
+CUST1840,Customer_90,Kolkata,36-45,Female,366,1,23787.6,23787.6,1,3,1,5,At Risk
+CUST1090,Customer_316,Unknown,36-45,Female,2,1,5263.79,5263.79,4,1,1,6,New / Recent
+CUST5160,Customer_144,Delhi,46-55,Female,9,1,1961.91,1961.91,4,1,1,6,New / Recent
+CUST1246,Customer_165,Kolkata,56-65,Female,16,1,2094.36,2094.36,4,1,1,6,New / Recent
+CUST9871,Customer_187,Pune,26-35,Female,17,1,34690.3,34690.3,4,1,1,6,New / Recent
+CUST8811,Customer_115,Bengaluru,46-55,Female,21,1,44708.5,44708.5,4,1,1,6,New / Recent
+CUST4565,Customer_359,Delhi,56-65,Female,26,1,23886.69,23886.69,4,1,1,6,New / Recent
+CUST4926,Customer_102,Delhi,36-45,Male,37,1,13050.5,13050.5,4,1,1,6,New / Recent
+CUST6944,Customer_460,Gaya,26-35,Male,60,1,34742.76,34742.76,4,1,1,6,New / Recent
+CUST7173,Customer_44,Hyderabad,18-25,Male,61,1,47212.5,47212.5,4,1,1,6,New / Recent
+CUST3685,Customer_94,Delhi,18-25,Female,68,1,35489.21,35489.21,4,1,1,6,New / Recent
+CUST2562,Customer_280,Bengaluru,56-65,Male,72,1,437.34,437.34,4,1,1,6,New / Recent
+CUST6421,Customer_218,Gaya,18-25,Male,81,1,38696.65,38696.65,4,1,1,6,New / Recent
+CUST3189,Customer_384,Kolkata,26-35,Female,83,1,69219.64,69219.64,3,1,2,6,Potential Loyalist
+CUST7600,Customer_208,Pune,18-25,Male,84,1,42736.43,42736.43,3,2,1,6,Potential Loyalist
+CUST3851,Customer_487,Delhi,56-65,Male,92,1,29862.4,29862.4,3,2,1,6,Potential Loyalist
+CUST2862,Customer_122,Bengaluru,18-25,Male,103,1,74724.16,74724.16,3,1,2,6,Potential Loyalist
+CUST9650,Customer_361,Hyderabad,26-35,Female,105,1,17299.04,17299.04,3,2,1,6,Potential Loyalist
+CUST8036,Customer_173,Patna,36-45,Male,110,1,22254.12,22254.12,3,2,1,6,Potential Loyalist
+CUST9614,Customer_235,Bengaluru,18-25,Male,111,1,84656.2,84656.2,3,1,2,6,Potential Loyalist
+CUST7801,Customer_150,Pune,36-45,Male,114,1,43373.54,43373.54,3,2,1,6,Potential Loyalist
+CUST6336,Customer_63,Delhi,46-55,Male,116,1,26771.99,26771.99,3,2,1,6,Potential Loyalist
+CUST6511,Customer_15,Mumbai,46-55,Male,121,1,54039.78,54039.78,3,1,2,6,Potential Loyalist
+CUST5136,Customer_257,Mumbai,26-35,Male,125,1,16506.48,16506.48,3,2,1,6,Potential Loyalist
+CUST4673,Customer_386,Delhi,36-45,Female,126,1,81396.85,81396.85,3,1,2,6,Potential Loyalist
+CUST9259,Customer_276,Hyderabad,26-35,Male,133,1,70840.92,70840.92,3,1,2,6,Potential Loyalist
+CUST5607,Customer_265,Gaya,56-65,Female,134,1,13129.64,13129.64,3,2,1,6,Potential Loyalist
+CUST4601,Customer_82,Hyderabad,46-55,Female,138,1,5053.68,5053.68,3,2,1,6,Potential Loyalist
+CUST4881,Customer_389,Patna,26-35,Male,146,1,5629.1,5629.1,3,2,1,6,Potential Loyalist
+CUST2697,Customer_155,Hyderabad,46-55,Male,147,1,83144.7,83144.7,3,1,2,6,Potential Loyalist
+CUST8347,Customer_236,Hyderabad,46-55,Male,154,1,12255.87,12255.87,3,2,1,6,Potential Loyalist
+CUST2003,Customer_48,Mumbai,26-35,Female,154,1,47674.82,47674.82,3,2,1,6,Potential Loyalist
+CUST2586,Customer_386,Pune,56-65,Male,159,1,84954.25,84954.25,3,1,2,6,Potential Loyalist
+CUST8065,Customer_92,Kolkata,46-55,Male,161,1,89054.9,89054.9,3,1,2,6,Potential Loyalist
+CUST4758,Customer_372,Pune,56-65,Male,162,1,66288.95,66288.95,3,1,2,6,Potential Loyalist
+CUST2236,Customer_173,Pune,56-65,Male,164,1,26010.12,26010.12,3,2,1,6,Potential Loyalist
+CUST4997,Customer_371,Hyderabad,26-35,Male,165,1,45063.04,45063.04,3,2,1,6,Potential Loyalist
+CUST4215,Customer_103,Delhi,26-35,Male,165,1,110511.99,110511.99,3,1,2,6,Potential Loyalist
+CUST2202,Customer_26,Patna,26-35,Female,166,1,80260.42,80260.42,3,1,2,6,Potential Loyalist
+CUST4705,Customer_53,Hyderabad,36-45,Female,168,1,29838.32,29838.32,3,2,1,6,Potential Loyalist
+CUST6236,Customer_312,Kolkata,36-45,Female,171,1,17039.73,17039.73,3,2,1,6,Potential Loyalist
+CUST5743,Customer_248,Gaya,26-35,Male,171,1,86401.08,86401.08,3,1,2,6,Potential Loyalist
+CUST3794,Customer_315,Hyderabad,26-35,Female,175,1,103917.5,103917.5,3,1,2,6,Potential Loyalist
+CUST6927,Customer_165,Gaya,18-25,Male,177,1,86462,86462,3,1,2,6,Potential Loyalist
+CUST2378,Customer_95,Hyderabad,46-55,Male,178,1,19026.35,19026.35,3,2,1,6,Potential Loyalist
+CUST8364,Customer_325,Hyderabad,18-25,Male,179,1,85364.44,85364.44,3,1,2,6,Potential Loyalist
+CUST8834,Customer_413,Mumbai,56-65,Female,181,1,73262.46,73262.46,2,2,2,6,Lost
+CUST7944,Customer_282,Unknown,36-45,Male,185,1,171571.86,171571.86,2,1,3,6,Potential Loyalist
+CUST4034,Customer_271,Kolkata,26-35,Female,186,1,85717.2,85717.2,2,2,2,6,Lost
+CUST4431,Customer_177,Gaya,18-25,Male,187,1,30519.5,30519.5,2,3,1,6,At Risk
+CUST5600,Customer_176,Bengaluru,26-35,Male,190,1,143878.14,143878.14,2,1,3,6,Potential Loyalist
+CUST3138,Customer_440,Mumbai,26-35,Female,194,1,104971.05,104971.05,2,2,2,6,Lost
+CUST6522,Customer_468,Mumbai,56-65,Male,195,1,107317.63,107317.63,2,2,2,6,Lost
+CUST6162,Customer_165,Mumbai,36-45,Male,197,1,31849.44,31849.44,2,3,1,6,At Risk
+CUST7494,Customer_188,Mumbai,26-35,Female,198,1,107028.9,107028.9,2,2,2,6,Lost
+CUST9485,Customer_43,Mumbai,56-65,Male,201,1,85037.6,85037.6,2,2,2,6,Lost
+CUST5615,Customer_56,Bengaluru,56-65,Female,202,1,7583.96,7583.96,2,3,1,6,At Risk
+CUST1419,Customer_226,Mumbai,26-35,Male,204,1,54878.34,54878.34,2,2,2,6,Lost
+CUST9493,Customer_34,Gaya,26-35,Male,205,1,127543.5,127543.5,2,1,3,6,Potential Loyalist
+CUST7059,Customer_224,Delhi,46-55,Female,208,1,13776.48,13776.48,2,3,1,6,At Risk
+CUST7903,Customer_163,Bengaluru,56-65,Female,214,1,101295.36,101295.36,2,2,2,6,Lost
+CUST3744,Customer_2,Mumbai,18-25,Female,215,1,93190.71,93190.71,2,2,2,6,Lost
+CUST4094,Customer_382,Hyderabad,46-55,Male,216,1,178309.16,178309.16,2,1,3,6,Potential Loyalist
+CUST4777,Customer_233,Gaya,56-65,Female,234,1,21001.73,21001.73,2,3,1,6,At Risk
+CUST1316,Customer_3,Delhi,36-45,Female,235,1,16249.69,16249.69,2,3,1,6,At Risk
+CUST4062,Customer_23,Mumbai,56-65,Female,237,1,8906.18,8906.18,2,3,1,6,At Risk
+CUST3004,Customer_162,Pune,46-55,Female,239,1,3971.35,3971.35,2,3,1,6,At Risk
+CUST9027,Customer_153,Mumbai,36-45,Female,240,1,25767.92,25767.92,2,3,1,6,At Risk
+CUST4417,Customer_234,Mumbai,46-55,Male,241,1,6280.83,6280.83,2,3,1,6,At Risk
+CUST1453,Customer_60,Gaya,46-55,Male,242,1,42816.6,42816.6,2,3,1,6,At Risk
+CUST3464,Customer_1,Bengaluru,18-25,Female,243,1,172829.92,172829.92,2,1,3,6,Potential Loyalist
+CUST5025,Customer_159,Patna,26-35,Female,243,1,20875.52,20875.52,2,3,1,6,At Risk
+CUST3603,Customer_448,Delhi,56-65,Female,251,1,15061.67,15061.67,2,3,1,6,At Risk
+CUST7110,Customer_176,Hyderabad,56-65,Male,253,1,3953.8,3953.8,2,3,1,6,At Risk
+CUST6260,Customer_455,Gaya,36-45,Male,253,1,105954.6,105954.6,2,2,2,6,Lost
+CUST2744,Customer_300,Bengaluru,26-35,Male,254,1,76084.8,76084.8,2,2,2,6,Lost
+CUST2714,Customer_98,Gaya,56-65,Female,254,1,202444.83,202444.83,2,1,3,6,Potential Loyalist
+CUST6348,Customer_412,Kolkata,18-25,Female,254,1,92286.1,92286.1,2,2,2,6,Lost
+CUST5516,Customer_343,Kolkata,18-25,Male,256,1,211333.38,211333.38,2,1,3,6,Potential Loyalist
+CUST6938,Customer_344,Kolkata,36-45,Female,257,1,119662.88,119662.88,2,1,3,6,Potential Loyalist
+CUST4317,Customer_498,Delhi,46-55,Female,260,1,144969.64,144969.64,2,1,3,6,Potential Loyalist
+CUST1312,Customer_40,Kolkata,26-35,Male,261,1,144194.72,144194.72,2,1,3,6,Potential Loyalist
+CUST2006,Customer_131,Kolkata,46-55,Male,261,1,3310.72,3310.72,2,3,1,6,At Risk
+CUST9158,Customer_297,Gaya,56-65,Male,266,1,22073.28,22073.28,2,3,1,6,At Risk
+CUST7659,Customer_445,Patna,18-25,Male,267,1,49067.82,49067.82,2,2,2,6,Lost
+CUST2137,Customer_57,Mumbai,36-45,Female,272,1,91115.3,91115.3,2,2,2,6,Lost
+CUST6625,Customer_121,Hyderabad,18-25,Male,273,1,121251.76,121251.76,1,2,3,6,Potential Loyalist
+CUST3576,Customer_397,Hyderabad,46-55,Male,275,1,321187.65,321187.65,1,1,4,6,Potential Loyalist
+CUST9111,Customer_235,Kolkata,56-65,Female,275,1,153103.75,153103.75,1,2,3,6,Potential Loyalist
+CUST9047,Customer_363,Patna,36-45,Male,275,1,325228.19,325228.19,1,1,4,6,Potential Loyalist
+CUST3107,Customer_99,Kolkata,18-25,Female,280,1,28766.56,28766.56,1,4,1,6,At Risk
+CUST9304,Customer_216,Bengaluru,36-45,Female,281,1,64664.54,64664.54,1,3,2,6,At Risk
+CUST8200,Customer_147,Patna,18-25,Female,281,1,97801.84,97801.84,1,3,2,6,At Risk
+CUST7628,Customer_120,Bengaluru,56-65,Male,283,1,160299.54,160299.54,1,2,3,6,Potential Loyalist
+CUST7625,Customer_251,Patna,46-55,Female,285,1,17409.33,17409.33,1,4,1,6,At Risk
+CUST6684,Customer_426,Bengaluru,56-65,Male,286,1,193199.4,193199.4,1,2,3,6,Potential Loyalist
+CUST6504,Customer_357,Kolkata,26-35,Male,288,1,190162.88,190162.88,1,2,3,6,Potential Loyalist
+CUST8325,Customer_16,Bengaluru,56-65,Female,289,1,324318.12,324318.12,1,1,4,6,Potential Loyalist
+CUST5455,Customer_287,Bengaluru,26-35,Male,291,1,86715.66,86715.66,1,3,2,6,At Risk
+CUST2290,Customer_195,Mumbai,56-65,Male,291,1,48677.96,48677.96,1,3,2,6,At Risk
+CUST2480,Customer_491,Gaya,56-65,Female,296,1,20740.93,20740.93,1,4,1,6,At Risk
+CUST1106,Customer_135,Patna,26-35,Male,298,1,51838.36,51838.36,1,3,2,6,At Risk
+CUST7465,Customer_345,Bengaluru,56-65,Female,301,1,234167.84,234167.84,1,1,4,6,Potential Loyalist
+CUST8314,Customer_440,Gaya,26-35,Female,301,1,73387.62,73387.62,1,3,2,6,At Risk
+CUST8211,Customer_62,Gaya,18-25,Female,303,1,411726.33,411726.33,1,1,4,6,Potential Loyalist
+CUST1252,Customer_81,Pune,18-25,Male,306,1,112029.57,112029.57,1,3,2,6,At Risk
+CUST2777,Customer_417,Gaya,46-55,Male,308,1,174736.89,174736.89,1,2,3,6,Potential Loyalist
+CUST7522,Customer_322,Kolkata,46-55,Female,309,1,2070.65,2070.65,1,4,1,6,At Risk
+CUST2448,Customer_444,Kolkata,56-65,Female,310,1,148803.66,148803.66,1,2,3,6,Potential Loyalist
+CUST6564,Customer_216,Patna,56-65,Female,310,1,142635.56,142635.56,1,2,3,6,Potential Loyalist
+CUST6932,Customer_304,Kolkata,26-35,Male,311,1,21090.24,21090.24,1,4,1,6,At Risk
+CUST1004,Customer_191,Bengaluru,56-65,Female,312,1,8321.54,8321.54,1,4,1,6,At Risk
+CUST7117,Customer_6,Gaya,46-55,Female,314,1,39406.86,39406.86,1,4,1,6,At Risk
+CUST6314,Customer_66,Gaya,18-25,Female,316,1,155811.12,155811.12,1,2,3,6,Potential Loyalist
+CUST8650,Customer_384,Gaya,18-25,Male,316,1,78828.6,78828.6,1,3,2,6,At Risk
+CUST3723,Customer_208,Kolkata,46-55,Male,320,1,16453.6,16453.6,1,4,1,6,At Risk
+CUST9754,Customer_304,Delhi,18-25,Male,322,1,203569.62,203569.62,1,2,3,6,Potential Loyalist
+CUST6714,Customer_31,Unknown,36-45,Female,323,1,439469.6,439469.6,1,1,4,6,Potential Loyalist
+CUST2832,Customer_204,Pune,18-25,Male,323,1,162512.76,162512.76,1,2,3,6,Potential Loyalist
+CUST1614,Customer_267,Bengaluru,46-55,Female,323,1,74620.36,74620.36,1,3,2,6,At Risk
+CUST8849,Customer_380,Patna,18-25,Female,325,1,181093.04,181093.04,1,2,3,6,Potential Loyalist
+CUST2863,Customer_375,Patna,26-35,Female,326,1,132772.22,132772.22,1,2,3,6,Potential Loyalist
+CUST9319,Customer_434,Pune,46-55,Female,328,1,36805.55,36805.55,1,4,1,6,At Risk
+CUST3417,Customer_102,Patna,36-45,Male,328,1,252084.4,252084.4,1,1,4,6,Potential Loyalist
+CUST3688,Customer_205,Bengaluru,36-45,Female,331,1,213936.9,213936.9,1,2,3,6,Potential Loyalist
+CUST5945,Customer_49,Kolkata,36-45,Female,332,1,200976.86,200976.86,1,2,3,6,Potential Loyalist
+CUST2551,Customer_343,Patna,18-25,Male,337,1,61673.9,61673.9,1,3,2,6,At Risk
+CUST4009,Customer_273,Hyderabad,18-25,Male,341,1,43713.28,43713.28,1,4,1,6,At Risk
+CUST5766,Customer_85,Gaya,26-35,Male,345,1,226028.39,226028.39,1,1,4,6,Potential Loyalist
+CUST4977,Customer_359,Mumbai,26-35,Male,348,1,200969.45,200969.45,1,2,3,6,Potential Loyalist
+CUST6319,Customer_393,Bengaluru,26-35,Female,349,1,46629.03,46629.03,1,4,1,6,At Risk
+CUST7236,Customer_366,Gaya,36-45,Male,349,1,130323.36,130323.36,1,2,3,6,Potential Loyalist
+CUST7031,Customer_224,Gaya,36-45,Female,350,1,195199.8,195199.8,1,2,3,6,Potential Loyalist
+CUST3277,Customer_148,Gaya,46-55,Female,351,1,190335.12,190335.12,1,2,3,6,Potential Loyalist
+CUST6288,Customer_407,Kolkata,46-55,Male,351,1,17212.99,17212.99,1,4,1,6,At Risk
+CUST3662,Customer_223,Hyderabad,26-35,Female,352,1,14919.85,14919.85,1,4,1,6,At Risk
+CUST2411,Customer_292,Mumbai,46-55,Female,352,1,184045.4,184045.4,1,2,3,6,Potential Loyalist
+CUST6995,Customer_374,Hyderabad,26-35,Male,353,1,325425.87,325425.87,1,1,4,6,Potential Loyalist
+CUST6627,Customer_353,Patna,56-65,Male,353,1,248966.58,248966.58,1,1,4,6,Potential Loyalist
+CUST5154,Customer_453,Mumbai,18-25,Male,354,1,76131.68,76131.68,1,3,2,6,At Risk
+CUST8105,Customer_385,Delhi,46-55,Male,356,1,107665.89,107665.89,1,3,2,6,At Risk
+CUST9840,Customer_347,Bengaluru,36-45,Female,357,1,163236.96,163236.96,1,2,3,6,Potential Loyalist
+CUST5791,Customer_113,Patna,56-65,Male,358,1,78010.54,78010.54,1,3,2,6,At Risk
+CUST9628,Customer_422,Bengaluru,26-35,Male,359,1,72852.1,72852.1,1,3,2,6,At Risk
+CUST6719,Customer_394,Patna,26-35,Female,363,1,45270.45,45270.45,1,4,1,6,At Risk
+CUST9339,Customer_127,Patna,46-55,Male,363,1,245737.05,245737.05,1,1,4,6,Potential Loyalist
+CUST2343,Customer_39,Patna,26-35,Male,1,1,98080.92,98080.92,4,1,2,7,New / Recent
+CUST7621,Customer_375,Gaya,56-65,Female,3,1,44751.42,44751.42,4,2,1,7,New / Recent
+CUST7491,Customer_139,Bengaluru,46-55,Female,4,1,107697.64,107697.64,4,1,2,7,New / Recent
+CUST1987,Customer_35,Kolkata,18-25,Male,4,1,58568.76,58568.76,4,1,2,7,New / Recent
+CUST3260,Customer_237,Mumbai,46-55,Male,5,1,110900.34,110900.34,4,1,2,7,New / Recent
+CUST1956,Customer_317,Bengaluru,18-25,Female,6,1,110614.05,110614.05,4,1,2,7,New / Recent
+CUST1835,Customer_81,Gaya,56-65,Female,8,1,64865.3,64865.3,4,1,2,7,New / Recent
+CUST5206,Customer_327,Patna,46-55,Female,11,1,65107.76,65107.76,4,1,2,7,New / Recent
+CUST9104,Customer_443,Bengaluru,36-45,Male,14,1,91718.44,91718.44,4,1,2,7,New / Recent
+CUST9414,Customer_359,Hyderabad,56-65,Female,16,1,77138.4,77138.4,4,1,2,7,New / Recent
+CUST6678,Customer_241,Kolkata,36-45,Male,16,1,28362.94,28362.94,4,2,1,7,New / Recent
+CUST6728,Customer_413,Bengaluru,56-65,Male,18,1,34757.71,34757.71,4,2,1,7,New / Recent
+CUST6394,Customer_338,Bengaluru,56-65,Female,19,1,57013.62,57013.62,4,1,2,7,New / Recent
+CUST6997,Customer_244,Gaya,26-35,Male,27,1,27593.6,27593.6,4,2,1,7,New / Recent
+CUST3264,Customer_227,Gaya,46-55,Female,30,1,42437.1,42437.1,4,2,1,7,New / Recent
+CUST1436,Customer_144,Delhi,56-65,Female,36,1,19590.5,19590.5,4,2,1,7,New / Recent
+CUST8128,Customer_101,Kolkata,46-55,Male,40,1,17070.85,17070.85,4,2,1,7,New / Recent
+CUST1159,Customer_492,Pune,26-35,Male,41,1,82567.7,82567.7,4,1,2,7,New / Recent
+CUST8502,Customer_220,Unknown,46-55,Male,43,1,14756.18,14756.18,4,2,1,7,New / Recent
+CUST9042,Customer_354,Hyderabad,26-35,Female,54,1,64916.12,64916.12,4,1,2,7,New / Recent
+CUST6727,Customer_452,Mumbai,26-35,Female,54,1,111865.08,111865.08,4,1,2,7,New / Recent
+CUST5432,Customer_163,Patna,56-65,Male,55,1,15571.2,15571.2,4,2,1,7,New / Recent
+CUST1334,Customer_364,Kolkata,26-35,Male,56,1,34200.58,34200.58,4,2,1,7,New / Recent
+CUST1611,Customer_451,Patna,46-55,Male,58,1,46050,46050,4,2,1,7,New / Recent
+CUST7462,Customer_379,Patna,36-45,Male,61,1,2768.1,2768.1,4,2,1,7,New / Recent
+CUST7413,Customer_4,Kolkata,46-55,Male,69,1,82021.25,82021.25,4,1,2,7,New / Recent
+CUST7249,Customer_144,Kolkata,26-35,Male,74,1,19176.32,19176.32,4,2,1,7,New / Recent
+CUST6752,Customer_52,Kolkata,56-65,Male,78,1,59121.8,59121.8,4,1,2,7,New / Recent
+CUST8268,Customer_18,Kolkata,46-55,Female,83,1,115132.52,115132.52,3,1,3,7,Potential Loyalist
+CUST4742,Customer_177,Kolkata,18-25,Male,88,1,74556.42,74556.42,3,2,2,7,Potential Loyalist
+CUST2956,Customer_177,Patna,36-45,Male,90,1,132611.45,132611.45,3,1,3,7,Potential Loyalist
+CUST6655,Customer_192,Pune,26-35,Female,91,1,3156.7,3156.7,3,3,1,7,Loyal Customers
+CUST3341,Customer_263,Gaya,46-55,Male,94,1,186519.72,186519.72,3,1,3,7,Potential Loyalist
+CUST9544,Customer_140,Hyderabad,56-65,Female,94,1,116744.31,116744.31,3,1,3,7,Potential Loyalist
+CUST3850,Customer_163,Kolkata,26-35,Female,95,1,122047.5,122047.5,3,1,3,7,Potential Loyalist
+CUST8399,Customer_160,Mumbai,36-45,Male,100,1,97826.15,97826.15,3,2,2,7,Potential Loyalist
+CUST5419,Customer_263,Patna,56-65,Female,104,1,7179.39,7179.39,3,3,1,7,Loyal Customers
+CUST3835,Customer_256,Delhi,36-45,Male,104,1,144095.7,144095.7,3,1,3,7,Potential Loyalist
+CUST1932,Customer_369,Delhi,26-35,Male,104,1,7741.12,7741.12,3,3,1,7,Loyal Customers
+CUST4973,Customer_443,Kolkata,18-25,Male,106,1,42500.65,42500.65,3,3,1,7,Loyal Customers
+CUST6589,Customer_367,Kolkata,26-35,Male,106,1,70470.99,70470.99,3,2,2,7,Potential Loyalist
+CUST8300,Customer_242,Hyderabad,36-45,Female,107,1,14491.62,14491.62,3,3,1,7,Loyal Customers
+CUST6340,Customer_125,Gaya,36-45,Female,109,1,21368.29,21368.29,3,3,1,7,Loyal Customers
+CUST1636,Customer_243,Patna,56-65,Female,110,1,52698.94,52698.94,3,2,2,7,Potential Loyalist
+CUST3393,Customer_175,Hyderabad,18-25,Female,115,1,108717.45,108717.45,3,2,2,7,Potential Loyalist
+CUST1743,Customer_222,Hyderabad,56-65,Male,116,1,161107.04,161107.04,3,1,3,7,Potential Loyalist
+CUST7574,Customer_66,Delhi,36-45,Female,116,1,38214.2,38214.2,3,3,1,7,Loyal Customers
+CUST7618,Customer_154,Gaya,18-25,Male,121,1,92273.25,92273.25,3,2,2,7,Potential Loyalist
+CUST9962,Customer_161,Mumbai,36-45,Male,121,1,181783.2,181783.2,3,1,3,7,Potential Loyalist
+CUST5726,Customer_192,Pune,18-25,Male,122,1,79157.2,79157.2,3,2,2,7,Potential Loyalist
+CUST4750,Customer_78,Delhi,36-45,Female,122,1,95299.22,95299.22,3,2,2,7,Potential Loyalist
+CUST7152,Customer_423,Patna,18-25,Female,124,1,106181.76,106181.76,3,2,2,7,Potential Loyalist
+CUST6180,Customer_73,Patna,56-65,Male,125,1,157078.86,157078.86,3,1,3,7,Potential Loyalist
+CUST6887,Customer_423,Delhi,18-25,Male,125,1,15733.65,15733.65,3,3,1,7,Loyal Customers
+CUST7405,Customer_15,Mumbai,56-65,Male,126,1,159668.96,159668.96,3,1,3,7,Potential Loyalist
+CUST9097,Customer_384,Hyderabad,26-35,Male,127,1,64336.72,64336.72,3,2,2,7,Potential Loyalist
+CUST1088,Customer_1,Patna,36-45,Male,128,1,203819.75,203819.75,3,1,3,7,Potential Loyalist
+CUST4229,Customer_234,Hyderabad,46-55,Male,131,1,136626.6,136626.6,3,1,3,7,Potential Loyalist
+CUST8691,Customer_252,Patna,26-35,Male,131,1,82110.87,82110.87,3,2,2,7,Potential Loyalist
+CUST1940,Customer_40,Gaya,46-55,Male,133,1,163606.7,163606.7,3,1,3,7,Potential Loyalist
+CUST6436,Customer_288,Bengaluru,46-55,Male,134,1,4418.86,4418.86,3,3,1,7,Loyal Customers
+CUST9017,Customer_51,Delhi,26-35,Female,140,1,109163.28,109163.28,3,2,2,7,Potential Loyalist
+CUST2650,Customer_276,Kolkata,56-65,Female,140,1,162226.4,162226.4,3,1,3,7,Potential Loyalist
+CUST9927,Customer_357,Bengaluru,36-45,Female,144,1,35804.49,35804.49,3,3,1,7,Loyal Customers
+CUST9125,Customer_19,Mumbai,18-25,Female,145,1,47927.36,47927.36,3,2,2,7,Potential Loyalist
+CUST4099,Customer_377,Delhi,46-55,Female,151,1,208572.3,208572.3,3,1,3,7,Potential Loyalist
+CUST1662,Customer_365,Pune,26-35,Female,154,1,96526.71,96526.71,3,2,2,7,Potential Loyalist
+CUST2827,Customer_287,Hyderabad,26-35,Male,154,1,84805.75,84805.75,3,2,2,7,Potential Loyalist
+CUST3459,Customer_320,Pune,18-25,Male,154,1,88586.31,88586.31,3,2,2,7,Potential Loyalist
+CUST5295,Customer_223,Kolkata,56-65,Female,156,1,120358.95,120358.95,3,1,3,7,Potential Loyalist
+CUST2680,Customer_90,Patna,56-65,Female,156,1,124790.55,124790.55,3,1,3,7,Potential Loyalist
+CUST4598,Customer_96,Patna,26-35,Female,168,1,66336,66336,3,2,2,7,Potential Loyalist
+CUST8700,Customer_233,Mumbai,26-35,Female,170,1,125182.65,125182.65,3,1,3,7,Potential Loyalist
+CUST7654,Customer_172,Delhi,36-45,Male,170,1,67132.4,67132.4,3,2,2,7,Potential Loyalist
+CUST1681,Customer_160,Delhi,56-65,Male,170,1,140328.85,140328.85,3,1,3,7,Potential Loyalist
+CUST3298,Customer_155,Kolkata,56-65,Female,173,1,72667,72667,3,2,2,7,Potential Loyalist
+CUST9718,Customer_11,Unknown,56-65,Female,173,1,91726.26,91726.26,3,2,2,7,Potential Loyalist
+CUST3321,Customer_151,Bengaluru,18-25,Female,174,1,62003.61,62003.61,3,2,2,7,Potential Loyalist
+CUST6631,Customer_141,Kolkata,56-65,Male,175,1,28924.68,28924.68,3,3,1,7,Loyal Customers
+CUST6116,Customer_343,Gaya,26-35,Female,177,1,86309,86309,3,2,2,7,Potential Loyalist
+CUST7016,Customer_88,Pune,26-35,Female,179,1,184654.44,184654.44,3,1,3,7,Potential Loyalist
+CUST9745,Customer_48,Mumbai,26-35,Male,180,1,29263.26,29263.26,2,4,1,7,At Risk
+CUST8294,Customer_103,Hyderabad,26-35,Female,182,1,199506.68,199506.68,2,2,3,7,Potential Loyalist
+CUST7093,Customer_174,Mumbai,18-25,Male,182,1,237005.1,237005.1,2,1,4,7,Potential Loyalist
+CUST5151,Customer_409,Bengaluru,46-55,Female,182,1,86394.66,86394.66,2,3,2,7,At Risk
+CUST5718,Customer_251,Kolkata,56-65,Female,185,1,80473.4,80473.4,2,3,2,7,At Risk
+CUST1269,Customer_423,Gaya,18-25,Female,186,1,80421.12,80421.12,2,3,2,7,At Risk
+CUST2394,Customer_293,Patna,26-35,Male,186,1,299334.78,299334.78,2,1,4,7,Potential Loyalist
+CUST5932,Customer_183,Gaya,56-65,Female,186,1,74970.27,74970.27,2,3,2,7,At Risk
+CUST9489,Customer_385,Delhi,56-65,Male,189,1,29313.46,29313.46,2,4,1,7,At Risk
+CUST2835,Customer_468,Kolkata,36-45,Male,190,1,65413.26,65413.26,2,3,2,7,At Risk
+CUST6815,Customer_295,Patna,36-45,Female,192,1,16650.75,16650.75,2,4,1,7,At Risk
+CUST6585,Customer_214,Hyderabad,18-25,Male,194,1,103625.84,103625.84,2,3,2,7,At Risk
+CUST4269,Customer_268,Gaya,56-65,Female,195,1,187463.04,187463.04,2,2,3,7,Potential Loyalist
+CUST9514,Customer_180,Patna,26-35,Female,196,1,46255.26,46255.26,2,4,1,7,At Risk
+CUST1094,Customer_91,Patna,26-35,Female,196,1,211945.9,211945.9,2,2,3,7,Potential Loyalist
+CUST4958,Customer_160,Gaya,36-45,Male,197,1,25717.95,25717.95,2,4,1,7,At Risk
+CUST9181,Customer_122,Patna,18-25,Female,198,1,2892.4,2892.4,2,4,1,7,At Risk
+CUST4979,Customer_273,Mumbai,36-45,Male,200,1,51456.6,51456.6,2,3,2,7,At Risk
+CUST9351,Customer_352,Pune,36-45,Male,204,1,398903.76,398903.76,2,1,4,7,Potential Loyalist
+CUST1124,Customer_360,Patna,18-25,Female,208,1,362370.56,362370.56,2,1,4,7,Potential Loyalist
+CUST9203,Customer_70,Delhi,26-35,Male,208,1,27936.6,27936.6,2,4,1,7,At Risk
+CUST7042,Customer_137,Kolkata,56-65,Male,208,1,70227.96,70227.96,2,3,2,7,At Risk
+CUST1991,Customer_359,Kolkata,36-45,Female,212,1,126402.03,126402.03,2,2,3,7,Potential Loyalist
+CUST1779,Customer_378,Delhi,56-65,Female,213,1,166613.7,166613.7,2,2,3,7,Potential Loyalist
+CUST9297,Customer_488,Kolkata,26-35,Female,213,1,203724.09,203724.09,2,2,3,7,Potential Loyalist
+CUST5178,Customer_170,Mumbai,18-25,Male,215,1,109792.04,109792.04,2,3,2,7,At Risk
+CUST9953,Customer_484,Hyderabad,46-55,Female,216,1,221829.7,221829.7,2,1,4,7,Potential Loyalist
+CUST2190,Customer_318,Hyderabad,36-45,Male,216,1,75639.4,75639.4,2,3,2,7,At Risk
+CUST4559,Customer_466,Bengaluru,56-65,Female,217,1,52501.23,52501.23,2,3,2,7,At Risk
+CUST3418,Customer_499,Gaya,26-35,Female,219,1,1229.02,1229.02,2,4,1,7,At Risk
+CUST8455,Customer_468,Bengaluru,36-45,Female,221,1,95992.04,95992.04,2,3,2,7,At Risk
+CUST7228,Customer_200,Bengaluru,18-25,Female,223,1,117472.56,117472.56,2,2,3,7,Potential Loyalist
+CUST9674,Customer_232,Mumbai,36-45,Female,227,1,106274.97,106274.97,2,3,2,7,At Risk
+CUST5851,Customer_418,Patna,46-55,Male,233,1,83088.9,83088.9,2,3,2,7,At Risk
+CUST3497,Customer_408,Patna,56-65,Male,236,1,119906.32,119906.32,2,2,3,7,Potential Loyalist
+CUST3297,Customer_465,Gaya,46-55,Male,237,1,40350.67,40350.67,2,4,1,7,At Risk
+CUST9952,Customer_453,Bengaluru,26-35,Female,238,1,198199.5,198199.5,2,2,3,7,Potential Loyalist
+CUST7283,Customer_262,Mumbai,26-35,Male,238,1,98418.06,98418.06,2,3,2,7,At Risk
+CUST7844,Customer_469,Patna,46-55,Male,243,1,134060.64,134060.64,2,2,3,7,Potential Loyalist
+CUST3580,Customer_60,Gaya,56-65,Female,246,1,89124.8,89124.8,2,3,2,7,At Risk
+CUST4457,Customer_212,Hyderabad,26-35,Female,247,1,110260.04,110260.04,2,3,2,7,At Risk
+CUST1032,Customer_20,Pune,18-25,Female,249,1,146990.9,146990.9,2,2,3,7,Potential Loyalist
+CUST7309,Customer_266,Delhi,46-55,Female,251,1,256457.76,256457.76,2,1,4,7,Potential Loyalist
+CUST8229,Customer_161,Pune,26-35,Male,256,1,129289.55,129289.55,2,2,3,7,Potential Loyalist
+CUST9282,Customer_322,Mumbai,56-65,Female,256,1,70625.7,70625.7,2,3,2,7,At Risk
+CUST5102,Customer_416,Hyderabad,36-45,Female,257,1,78808.86,78808.86,2,3,2,7,At Risk
+CUST8525,Customer_126,Gaya,36-45,Female,257,1,85329,85329,2,3,2,7,At Risk
+CUST7176,Customer_434,Bengaluru,26-35,Male,259,1,54990.9,54990.9,2,3,2,7,At Risk
+CUST4337,Customer_269,Kolkata,46-55,Female,261,1,55976.48,55976.48,2,3,2,7,At Risk
+CUST6969,Customer_83,Hyderabad,36-45,Female,261,1,167677.65,167677.65,2,2,3,7,Potential Loyalist
+CUST1017,Customer_387,Pune,36-45,Female,261,1,264230.68,264230.68,2,1,4,7,Potential Loyalist
+CUST8899,Customer_482,Delhi,26-35,Male,262,1,153670.14,153670.14,2,2,3,7,Potential Loyalist
+CUST2126,Customer_385,Patna,26-35,Male,263,1,21819.5,21819.5,2,4,1,7,At Risk
+CUST2834,Customer_98,Kolkata,36-45,Male,265,1,270821.34,270821.34,2,1,4,7,Potential Loyalist
+CUST2482,Customer_183,Mumbai,56-65,Male,267,1,354730.14,354730.14,2,1,4,7,Potential Loyalist
+CUST8000,Customer_275,Kolkata,46-55,Male,270,1,150898.88,150898.88,2,2,3,7,Potential Loyalist
+CUST6773,Customer_200,Hyderabad,18-25,Male,270,1,132823.76,132823.76,2,2,3,7,Potential Loyalist
+CUST9248,Customer_451,Mumbai,46-55,Male,271,1,106419.88,106419.88,2,3,2,7,At Risk
+CUST2463,Customer_390,Bengaluru,18-25,Male,273,1,248328.55,248328.55,1,2,4,7,Potential Loyalist
+CUST9649,Customer_322,Gaya,56-65,Male,274,1,334585.35,334585.35,1,2,4,7,Potential Loyalist
+CUST9627,Customer_444,Gaya,46-55,Male,278,1,139501.8,139501.8,1,3,3,7,At Risk
+CUST6933,Customer_224,Patna,18-25,Female,279,1,125483.1,125483.1,1,3,3,7,At Risk
+CUST5244,Customer_44,Pune,36-45,Male,281,1,207547.7,207547.7,1,3,3,7,At Risk
+CUST3059,Customer_104,Patna,36-45,Male,281,1,234450.42,234450.42,1,2,4,7,Potential Loyalist
+CUST3987,Customer_126,Pune,46-55,Female,283,1,330496.47,330496.47,1,2,4,7,Potential Loyalist
+CUST1528,Customer_170,Patna,46-55,Male,287,1,48389.92,48389.92,1,4,2,7,At Risk
+CUST9577,Customer_302,Mumbai,46-55,Male,287,1,145301.46,145301.46,1,3,3,7,At Risk
+CUST6707,Customer_420,Pune,26-35,Male,288,1,328896.4,328896.4,1,2,4,7,Potential Loyalist
+CUST5211,Customer_215,Patna,46-55,Female,290,1,191167.55,191167.55,1,3,3,7,At Risk
+CUST1603,Customer_434,Mumbai,36-45,Female,292,1,136560.28,136560.28,1,3,3,7,At Risk
+CUST2921,Customer_420,Patna,26-35,Male,296,1,139876.08,139876.08,1,3,3,7,At Risk
+CUST4934,Customer_25,Bengaluru,36-45,Male,296,1,318588.55,318588.55,1,2,4,7,Potential Loyalist
+CUST8098,Customer_337,Patna,26-35,Female,299,1,107775.6,107775.6,1,4,2,7,At Risk
+CUST2138,Customer_303,Gaya,36-45,Female,299,1,137878.74,137878.74,1,3,3,7,At Risk
+CUST7911,Customer_7,Delhi,56-65,Male,301,1,142731.2,142731.2,1,3,3,7,At Risk
+CUST8319,Customer_362,Delhi,36-45,Male,309,1,99371.28,99371.28,1,4,2,7,At Risk
+CUST4532,Customer_68,Pune,46-55,Male,309,1,210571.1,210571.1,1,3,3,7,At Risk
+CUST5871,Customer_335,Delhi,36-45,Female,311,1,136832.9,136832.9,1,3,3,7,At Risk
+CUST2953,Customer_435,Kolkata,36-45,Female,312,1,220868.4,220868.4,1,2,4,7,Potential Loyalist
+CUST2039,Customer_32,Mumbai,26-35,Male,312,1,231048.23,231048.23,1,2,4,7,Potential Loyalist
+CUST2599,Customer_390,Mumbai,26-35,Male,312,1,134115.7,134115.7,1,3,3,7,At Risk
+CUST9562,Customer_162,Mumbai,36-45,Male,313,1,129925.28,129925.28,1,3,3,7,At Risk
+CUST1841,Customer_129,Kolkata,36-45,Male,313,1,82193.5,82193.5,1,4,2,7,At Risk
+CUST5869,Customer_415,Delhi,18-25,Male,316,1,285227.53,285227.53,1,2,4,7,Potential Loyalist
+CUST3566,Customer_430,Patna,36-45,Female,320,1,178545.48,178545.48,1,3,3,7,At Risk
+CUST1452,Customer_68,Hyderabad,56-65,Female,323,1,266207.48,266207.48,1,2,4,7,Potential Loyalist
+CUST1357,Customer_361,Delhi,46-55,Male,323,1,195601.44,195601.44,1,3,3,7,At Risk
+CUST2661,Customer_370,Delhi,36-45,Male,324,1,252904.44,252904.44,1,2,4,7,Potential Loyalist
+CUST6096,Customer_53,Patna,46-55,Female,328,1,197341.68,197341.68,1,3,3,7,At Risk
+CUST4110,Customer_73,Kolkata,56-65,Female,329,1,360621.09,360621.09,1,2,4,7,Potential Loyalist
+CUST7219,Customer_391,Pune,26-35,Male,333,1,229527.7,229527.7,1,2,4,7,Potential Loyalist
+CUST7361,Customer_159,Hyderabad,18-25,Male,334,1,142398.54,142398.54,1,3,3,7,At Risk
+CUST9219,Customer_132,Gaya,26-35,Female,334,1,131685.75,131685.75,1,3,3,7,At Risk
+CUST5933,Customer_92,Mumbai,26-35,Male,338,1,65068.15,65068.15,1,4,2,7,At Risk
+CUST5454,Customer_368,Hyderabad,18-25,Female,344,1,308555,308555,1,2,4,7,Potential Loyalist
+CUST5431,Customer_396,Mumbai,56-65,Female,347,1,215478.9,215478.9,1,2,4,7,Potential Loyalist
+CUST5433,Customer_355,Delhi,46-55,Male,350,1,100010.88,100010.88,1,4,2,7,At Risk
+CUST9132,Customer_210,Pune,18-25,Female,352,1,310471.04,310471.04,1,2,4,7,Potential Loyalist
+CUST3210,Customer_15,Mumbai,36-45,Female,353,1,122561.37,122561.37,1,3,3,7,At Risk
+CUST8826,Customer_206,Gaya,18-25,Female,354,1,154420,154420,1,3,3,7,At Risk
+CUST8058,Customer_273,Pune,56-65,Female,356,1,146255.58,146255.58,1,3,3,7,At Risk
+CUST8453,Customer_68,Patna,46-55,Female,358,1,101689.05,101689.05,1,4,2,7,At Risk
+CUST4109,Customer_31,Delhi,46-55,Female,361,1,221067.8,221067.8,1,2,4,7,Potential Loyalist
+CUST8346,Customer_384,Hyderabad,26-35,Male,361,1,439609.5,439609.5,1,2,4,7,Potential Loyalist
+CUST9464,Customer_357,Gaya,36-45,Male,8,1,45338.4,45338.4,4,3,1,8,Loyal Customers
+CUST8578,Customer_154,Kolkata,46-55,Male,9,1,6910.12,6910.12,4,3,1,8,Loyal Customers
+CUST3767,Customer_470,Hyderabad,46-55,Female,10,1,1981.7,1981.7,4,3,1,8,Loyal Customers
+CUST2286,Customer_298,Patna,36-45,Female,11,1,36304.28,36304.28,4,3,1,8,Loyal Customers
+CUST8595,Customer_63,Mumbai,36-45,Female,14,1,18229,18229,4,3,1,8,Loyal Customers
+CUST2428,Customer_127,Mumbai,46-55,Female,17,1,48123.87,48123.87,4,2,2,8,New / Recent
+CUST3089,Customer_339,Kolkata,26-35,Female,17,1,139534.08,139534.08,4,1,3,8,New / Recent
+CUST6638,Customer_350,Bengaluru,36-45,Male,19,1,167313.48,167313.48,4,1,3,8,New / Recent
+CUST8269,Customer_104,Bengaluru,26-35,Female,20,1,93549.04,93549.04,4,2,2,8,New / Recent
+CUST2859,Customer_395,Kolkata,18-25,Female,22,1,161565.2,161565.2,4,1,3,8,New / Recent
+CUST9009,Customer_424,Mumbai,36-45,Male,23,1,76855.26,76855.26,4,2,2,8,New / Recent
+CUST4703,Customer_394,Patna,56-65,Male,30,1,158544.6,158544.6,4,1,3,8,New / Recent
+CUST8110,Customer_268,Delhi,46-55,Male,32,1,103074.8,103074.8,4,2,2,8,New / Recent
+CUST4602,Customer_150,Pune,26-35,Female,33,1,6430.22,6430.22,4,3,1,8,Loyal Customers
+CUST3809,Customer_394,Gaya,36-45,Female,40,1,51282.42,51282.42,4,2,2,8,New / Recent
+CUST9770,Customer_494,Mumbai,36-45,Female,42,1,116929.38,116929.38,4,1,3,8,New / Recent
+CUST3327,Customer_94,Pune,18-25,Female,43,1,90435.84,90435.84,4,2,2,8,New / Recent
+CUST5319,Customer_129,Mumbai,26-35,Female,45,1,138242.6,138242.6,4,1,3,8,New / Recent
+CUST2690,Customer_11,Delhi,26-35,Male,47,1,66608.34,66608.34,4,2,2,8,New / Recent
+CUST9518,Customer_192,Pune,18-25,Male,50,1,123894.12,123894.12,4,1,3,8,New / Recent
+CUST3438,Customer_98,Patna,56-65,Male,51,1,148435.74,148435.74,4,1,3,8,New / Recent
+CUST7631,Customer_115,Gaya,56-65,Female,52,1,107745.36,107745.36,4,2,2,8,New / Recent
+CUST2836,Customer_434,Patna,46-55,Female,56,1,144754.88,144754.88,4,1,3,8,New / Recent
+CUST8704,Customer_440,Kolkata,18-25,Female,58,1,107664.42,107664.42,4,2,2,8,New / Recent
+CUST4730,Customer_484,Patna,18-25,Female,61,1,203288.64,203288.64,4,1,3,8,New / Recent
+CUST5415,Customer_460,Delhi,26-35,Female,63,1,12121.61,12121.61,4,3,1,8,Loyal Customers
+CUST7476,Customer_45,Hyderabad,18-25,Female,65,1,118002.51,118002.51,4,1,3,8,New / Recent
+CUST2705,Customer_117,Kolkata,46-55,Male,69,1,124270.25,124270.25,4,1,3,8,New / Recent
+CUST2687,Customer_190,Hyderabad,56-65,Female,71,1,49496.16,49496.16,4,2,2,8,New / Recent
+CUST9565,Customer_350,Mumbai,18-25,Female,72,1,174333.28,174333.28,4,1,3,8,New / Recent
+CUST3265,Customer_256,Gaya,26-35,Male,74,1,97693.35,97693.35,4,2,2,8,New / Recent
+CUST9008,Customer_279,Hyderabad,46-55,Female,74,1,125266.25,125266.25,4,1,3,8,New / Recent
+CUST2418,Customer_425,Gaya,56-65,Male,76,1,93055.86,93055.86,4,2,2,8,New / Recent
+CUST5535,Customer_146,Gaya,26-35,Male,77,1,81639.9,81639.9,4,2,2,8,New / Recent
+CUST5373,Customer_256,Delhi,18-25,Male,78,1,25737.43,25737.43,4,3,1,8,Loyal Customers
+CUST8904,Customer_152,Kolkata,26-35,Female,78,1,63886.38,63886.38,4,2,2,8,New / Recent
+CUST1481,Customer_40,Patna,36-45,Female,79,1,78764.8,78764.8,4,2,2,8,New / Recent
+CUST3127,Customer_182,Bengaluru,56-65,Male,80,1,139530.8,139530.8,4,1,3,8,New / Recent
+CUST8017,Customer_371,Patna,36-45,Male,83,1,196003.1,196003.1,3,2,3,8,Potential Loyalist
+CUST5477,Customer_249,Kolkata,36-45,Female,84,1,284448.64,284448.64,3,1,4,8,Potential Loyalist
+CUST1822,Customer_174,Kolkata,36-45,Male,87,1,121853.1,121853.1,3,2,3,8,Potential Loyalist
+CUST5240,Customer_379,Patna,36-45,Male,88,1,92846.81,92846.81,3,3,2,8,Loyal Customers
+CUST2903,Customer_122,Mumbai,26-35,Female,90,1,107774.59,107774.59,3,3,2,8,Loyal Customers
+CUST3607,Customer_266,Patna,56-65,Female,95,1,105764.6,105764.6,3,3,2,8,Loyal Customers
+CUST1618,Customer_166,Patna,36-45,Male,97,1,158916.6,158916.6,3,2,3,8,Potential Loyalist
+CUST7263,Customer_120,Hyderabad,46-55,Male,104,1,10851.3,10851.3,3,4,1,8,Loyal Customers
+CUST2871,Customer_8,Delhi,26-35,Female,106,1,147500.76,147500.76,3,2,3,8,Potential Loyalist
+CUST2796,Customer_471,Patna,26-35,Male,106,1,147307.52,147307.52,3,2,3,8,Potential Loyalist
+CUST1149,Customer_14,Hyderabad,36-45,Female,107,1,340749.52,340749.52,3,1,4,8,Potential Loyalist
+CUST4756,Customer_15,Bengaluru,46-55,Female,109,2,19079.68,9539.84,3,4,1,8,Loyal Customers
+CUST7615,Customer_277,Patna,36-45,Male,110,1,163012.74,163012.74,3,2,3,8,Potential Loyalist
+CUST2997,Customer_181,Hyderabad,18-25,Female,110,1,34192.3,34192.3,3,4,1,8,Loyal Customers
+CUST2152,Customer_99,Bengaluru,56-65,Female,111,1,96867.4,96867.4,3,3,2,8,Loyal Customers
+CUST6697,Customer_137,Pune,26-35,Male,111,1,75059.95,75059.95,3,3,2,8,Loyal Customers
+CUST2345,Customer_302,Bengaluru,46-55,Male,115,1,224371.6,224371.6,3,1,4,8,Potential Loyalist
+CUST3001,Customer_327,Delhi,56-65,Female,117,2,14067.77,7033.89,3,4,1,8,Loyal Customers
+CUST3760,Customer_360,Bengaluru,56-65,Female,119,1,41626.11,41626.11,3,4,1,8,Loyal Customers
+CUST9700,Customer_441,Kolkata,18-25,Female,120,1,40148.6,40148.6,3,4,1,8,Loyal Customers
+CUST4537,Customer_9,Gaya,56-65,Male,122,1,167620.15,167620.15,3,2,3,8,Potential Loyalist
+CUST9728,Customer_338,Gaya,36-45,Male,125,1,185424.32,185424.32,3,2,3,8,Potential Loyalist
+CUST4966,Customer_367,Bengaluru,46-55,Female,129,1,8286.54,8286.54,3,4,1,8,Loyal Customers
+CUST7196,Customer_286,Delhi,36-45,Male,129,1,267104.88,267104.88,3,1,4,8,Potential Loyalist
+CUST3365,Customer_80,Delhi,18-25,Male,130,1,119390.88,119390.88,3,2,3,8,Potential Loyalist
+CUST8049,Customer_384,Delhi,36-45,Female,130,1,130165.29,130165.29,3,2,3,8,Potential Loyalist
+CUST1616,Customer_288,Delhi,36-45,Female,131,1,99704.97,99704.97,3,3,2,8,Loyal Customers
+CUST8466,Customer_66,Hyderabad,36-45,Male,133,1,47743.08,47743.08,3,4,1,8,Loyal Customers
+CUST9804,Customer_284,Patna,26-35,Male,133,1,226417.1,226417.1,3,1,4,8,Potential Loyalist
+CUST4420,Customer_268,Gaya,36-45,Male,137,1,13705.83,13705.83,3,4,1,8,Loyal Customers
+CUST5418,Customer_491,Kolkata,36-45,Female,138,1,177852.72,177852.72,3,2,3,8,Potential Loyalist
+CUST8431,Customer_90,Delhi,26-35,Male,142,1,220973.34,220973.34,3,1,4,8,Potential Loyalist
+CUST7718,Customer_293,Delhi,26-35,Male,143,1,374935.6,374935.6,3,1,4,8,Potential Loyalist
+CUST1396,Customer_479,Pune,26-35,Male,143,1,21572.48,21572.48,3,4,1,8,Loyal Customers
+CUST6149,Customer_181,Patna,26-35,Female,145,1,72673.95,72673.95,3,3,2,8,Loyal Customers
+CUST9552,Customer_340,Patna,26-35,Male,146,1,7745.85,7745.85,3,4,1,8,Loyal Customers
+CUST9449,Customer_178,Mumbai,46-55,Female,149,1,23934.94,23934.94,3,4,1,8,Loyal Customers
+CUST7221,Customer_478,Gaya,36-45,Male,151,1,15069.36,15069.36,3,4,1,8,Loyal Customers
+CUST9113,Customer_175,Hyderabad,56-65,Male,151,1,191143.08,191143.08,3,2,3,8,Potential Loyalist
+CUST4077,Customer_138,Mumbai,46-55,Male,151,1,109913.8,109913.8,3,3,2,8,Loyal Customers
+CUST8195,Customer_388,Patna,46-55,Female,153,1,3727.43,3727.43,3,4,1,8,Loyal Customers
+CUST1339,Customer_107,Kolkata,46-55,Male,155,1,203324.1,203324.1,3,2,3,8,Potential Loyalist
+CUST9092,Customer_97,Mumbai,56-65,Male,156,1,37930.19,37930.19,3,4,1,8,Loyal Customers
+CUST5010,Customer_46,Pune,36-45,Female,157,1,124324.34,124324.34,3,2,3,8,Potential Loyalist
+CUST2369,Customer_259,Mumbai,56-65,Male,157,1,64307.52,64307.52,3,3,2,8,Loyal Customers
+CUST5899,Customer_500,Gaya,26-35,Female,158,1,23158,23158,3,4,1,8,Loyal Customers
+CUST4515,Customer_281,Hyderabad,46-55,Female,158,1,78848.08,78848.08,3,3,2,8,Loyal Customers
+CUST6538,Customer_365,Pune,36-45,Female,158,1,26611.8,26611.8,3,4,1,8,Loyal Customers
+CUST3911,Customer_304,Gaya,26-35,Female,158,1,81607.25,81607.25,3,3,2,8,Loyal Customers
+CUST4483,Customer_109,Patna,56-65,Female,159,1,370228.72,370228.72,3,1,4,8,Potential Loyalist
+CUST2364,Customer_290,Hyderabad,26-35,Female,164,1,83149.52,83149.52,3,3,2,8,Loyal Customers
+CUST7757,Customer_494,Mumbai,56-65,Male,165,1,219795.57,219795.57,3,1,4,8,Potential Loyalist
+CUST6258,Customer_229,Pune,46-55,Male,171,1,40225.63,40225.63,3,4,1,8,Loyal Customers
+CUST1711,Customer_36,Bengaluru,18-25,Female,173,1,490866.4,490866.4,3,1,4,8,Potential Loyalist
+CUST5702,Customer_381,Pune,46-55,Female,175,1,139084.8,139084.8,3,2,3,8,Potential Loyalist
+CUST3430,Customer_184,Kolkata,46-55,Female,176,1,215754.42,215754.42,3,1,4,8,Potential Loyalist
+CUST3440,Customer_28,Pune,26-35,Female,179,1,33098.3,33098.3,3,4,1,8,Loyal Customers
+CUST2644,Customer_222,Pune,18-25,Male,180,1,175457.4,175457.4,2,3,3,8,At Risk
+CUST8338,Customer_90,Pune,36-45,Male,180,1,188413.61,188413.61,2,3,3,8,At Risk
+CUST3623,Customer_1,Mumbai,26-35,Male,183,1,338531.22,338531.22,2,2,4,8,Potential Loyalist
+CUST4747,Customer_193,Gaya,36-45,Male,185,1,102099.33,102099.33,2,4,2,8,At Risk
+CUST5430,Customer_333,Mumbai,46-55,Male,187,1,138761.82,138761.82,2,3,3,8,At Risk
+CUST3330,Customer_450,Hyderabad,56-65,Female,188,1,162554.32,162554.32,2,3,3,8,At Risk
+CUST9404,Customer_463,Gaya,18-25,Female,189,1,70861.06,70861.06,2,4,2,8,At Risk
+CUST7787,Customer_139,Pune,36-45,Male,191,1,286879.52,286879.52,2,2,4,8,Potential Loyalist
+CUST8322,Customer_429,Hyderabad,26-35,Male,192,1,242974.8,242974.8,2,2,4,8,Potential Loyalist
+CUST9869,Customer_394,Hyderabad,36-45,Female,192,1,206413.15,206413.15,2,3,3,8,At Risk
+CUST4527,Customer_359,Mumbai,46-55,Male,194,1,210037.8,210037.8,2,3,3,8,At Risk
+CUST5214,Customer_142,Patna,56-65,Female,197,1,86438.08,86438.08,2,4,2,8,At Risk
+CUST4686,Customer_473,Pune,26-35,Male,198,1,290918.72,290918.72,2,2,4,8,Potential Loyalist
+CUST1256,Customer_279,Kolkata,26-35,Male,200,1,242289.7,242289.7,2,2,4,8,Potential Loyalist
+CUST6345,Customer_214,Delhi,26-35,Female,202,2,82147.94,41073.97,2,4,2,8,At Risk
+CUST6821,Customer_73,Pune,18-25,Male,203,1,274083.6,274083.6,2,2,4,8,Potential Loyalist
+CUST9299,Customer_13,Delhi,56-65,Female,206,1,215004.9,215004.9,2,2,4,8,Potential Loyalist
+CUST9450,Customer_230,Bengaluru,18-25,Male,208,1,112729.05,112729.05,2,3,3,8,At Risk
+CUST3564,Customer_267,Patna,36-45,Male,209,1,444513.78,444513.78,2,2,4,8,Potential Loyalist
+CUST1806,Customer_354,Patna,56-65,Male,209,1,64332.45,64332.45,2,4,2,8,At Risk
+CUST6309,Customer_345,Mumbai,46-55,Female,210,1,61486.2,61486.2,2,4,2,8,At Risk
+CUST9022,Customer_131,Mumbai,46-55,Female,212,1,91224.84,91224.84,2,4,2,8,At Risk
+CUST1658,Customer_324,Hyderabad,46-55,Male,212,1,193777.92,193777.92,2,3,3,8,At Risk
+CUST6279,Customer_97,Kolkata,18-25,Female,212,1,256986.2,256986.2,2,2,4,8,Potential Loyalist
+CUST3285,Customer_232,Mumbai,26-35,Female,213,1,392423.76,392423.76,2,2,4,8,Potential Loyalist
+CUST2027,Customer_458,Gaya,26-35,Male,214,1,121322.16,121322.16,2,3,3,8,At Risk
+CUST1253,Customer_334,Gaya,26-35,Female,216,1,87892.59,87892.59,2,4,2,8,At Risk
+CUST3054,Customer_96,Mumbai,26-35,Female,217,1,63845.1,63845.1,2,4,2,8,At Risk
+CUST5338,Customer_269,Patna,18-25,Female,218,1,140731.05,140731.05,2,3,3,8,At Risk
+CUST2218,Customer_392,Delhi,56-65,Male,221,1,63231.28,63231.28,2,4,2,8,At Risk
+CUST6870,Customer_53,Hyderabad,46-55,Female,223,1,70818.68,70818.68,2,4,2,8,At Risk
+CUST6814,Customer_70,Bengaluru,56-65,Male,226,1,56546.37,56546.37,2,4,2,8,At Risk
+CUST8381,Customer_112,Kolkata,36-45,Male,230,1,473144.2,473144.2,2,2,4,8,Potential Loyalist
+CUST7315,Customer_283,Mumbai,36-45,Female,231,1,53794.02,53794.02,2,4,2,8,At Risk
+CUST7238,Customer_335,Delhi,46-55,Female,234,1,280228.24,280228.24,2,2,4,8,Potential Loyalist
+CUST9458,Customer_391,Bengaluru,56-65,Male,238,2,56158.259999999995,28079.13,2,4,2,8,At Risk
+CUST9515,Customer_52,Kolkata,26-35,Female,239,1,133044.7,133044.7,2,3,3,8,At Risk
+CUST1516,Customer_148,Mumbai,46-55,Male,240,1,199641.96,199641.96,2,3,3,8,At Risk
+CUST6414,Customer_82,Delhi,26-35,Male,241,1,62429.88,62429.88,2,4,2,8,At Risk
+CUST8532,Customer_323,Delhi,36-45,Female,242,1,69756.24,69756.24,2,4,2,8,At Risk
+CUST2093,Customer_428,Mumbai,36-45,Female,248,1,121791.05,121791.05,2,3,3,8,At Risk
+CUST9131,Customer_249,Delhi,36-45,Female,249,1,372913.47,372913.47,2,2,4,8,Potential Loyalist
+CUST6618,Customer_311,Pune,18-25,Male,249,1,230997.12,230997.12,2,2,4,8,Potential Loyalist
+CUST9059,Customer_288,Delhi,26-35,Male,250,1,150907.5,150907.5,2,3,3,8,At Risk
+CUST7664,Customer_376,Delhi,36-45,Female,252,1,216126.48,216126.48,2,2,4,8,Potential Loyalist
+CUST6006,Customer_344,Delhi,36-45,Male,258,1,186072.9,186072.9,2,3,3,8,At Risk
+CUST6806,Customer_316,Pune,46-55,Male,261,1,246529.68,246529.68,2,2,4,8,Potential Loyalist
+CUST5778,Customer_346,Patna,36-45,Male,272,1,72124.72,72124.72,2,4,2,8,At Risk
+CUST7065,Customer_335,Bengaluru,18-25,Female,272,1,241144.8,241144.8,2,2,4,8,Potential Loyalist
+CUST9159,Customer_12,Kolkata,36-45,Female,272,1,208852.56,208852.56,2,3,3,8,At Risk
+CUST9875,Customer_6,Bengaluru,46-55,Male,273,1,120557.08,120557.08,1,4,3,8,At Risk
+CUST5128,Customer_192,Bengaluru,46-55,Male,276,1,242216.48,242216.48,1,3,4,8,At Risk
+CUST6584,Customer_449,Mumbai,18-25,Male,281,1,296462.6,296462.6,1,3,4,8,At Risk
+CUST4150,Customer_415,Delhi,26-35,Female,282,1,359892.18,359892.18,1,3,4,8,At Risk
+CUST8366,Customer_355,Bengaluru,56-65,Female,283,1,299029.7,299029.7,1,3,4,8,At Risk
+CUST1890,Customer_277,Gaya,18-25,Male,283,1,129500.85,129500.85,1,4,3,8,At Risk
+CUST4496,Customer_53,Bengaluru,18-25,Female,296,1,333687.41,333687.41,1,3,4,8,At Risk
+CUST9273,Customer_162,Hyderabad,26-35,Female,300,1,143245.35,143245.35,1,4,3,8,At Risk
+CUST8996,Customer_165,Hyderabad,56-65,Male,301,1,126134.07,126134.07,1,4,3,8,At Risk
+CUST1936,Customer_15,Delhi,56-65,Male,301,1,130702.11,130702.11,1,4,3,8,At Risk
+CUST1113,Customer_104,Gaya,26-35,Female,303,1,181063.26,181063.26,1,4,3,8,At Risk
+CUST3891,Customer_453,Mumbai,56-65,Male,306,1,150743.16,150743.16,1,4,3,8,At Risk
+CUST9191,Customer_323,Hyderabad,36-45,Male,313,1,153373.8,153373.8,1,4,3,8,At Risk
+CUST4625,Customer_296,Gaya,18-25,Female,314,1,306956.37,306956.37,1,3,4,8,At Risk
+CUST8390,Customer_297,Mumbai,46-55,Female,314,1,285282.83,285282.83,1,3,4,8,At Risk
+CUST5113,Customer_271,Kolkata,26-35,Female,320,1,199283,199283,1,4,3,8,At Risk
+CUST6467,Customer_181,Pune,18-25,Female,325,1,318362.73,318362.73,1,3,4,8,At Risk
+CUST5155,Customer_165,Bengaluru,56-65,Male,328,1,172543,172543,1,4,3,8,At Risk
+CUST9557,Customer_475,Mumbai,46-55,Male,339,1,137155.95,137155.95,1,4,3,8,At Risk
+CUST4824,Customer_98,Gaya,18-25,Male,342,1,226245.78,226245.78,1,3,4,8,At Risk
+CUST7650,Customer_453,Kolkata,46-55,Male,349,1,347736,347736,1,3,4,8,At Risk
+CUST9994,Customer_13,Delhi,46-55,Male,356,1,261678.42,261678.42,1,3,4,8,At Risk
+CUST2520,Customer_93,Kolkata,26-35,Female,356,1,141401.85,141401.85,1,4,3,8,At Risk
+CUST4381,Customer_324,Kolkata,36-45,Female,358,1,135764.76,135764.76,1,4,3,8,At Risk
+CUST3839,Customer_274,Bengaluru,56-65,Male,360,1,410547.2,410547.2,1,3,4,8,At Risk
+CUST4553,Customer_489,Kolkata,36-45,Female,362,1,165937.8,165937.8,1,4,3,8,At Risk
+CUST6862,Customer_257,Patna,36-45,Female,2,1,95386.66,95386.66,4,3,2,9,Loyal Customers
+CUST8430,Customer_277,Gaya,36-45,Male,3,1,17766.9,17766.9,4,4,1,9,Loyal Customers
+CUST1833,Customer_357,Gaya,56-65,Male,5,1,111006.18,111006.18,4,3,2,9,Loyal Customers
+CUST3877,Customer_133,Delhi,18-25,Male,7,1,85323.78,85323.78,4,3,2,9,Loyal Customers
+CUST4646,Customer_365,Bengaluru,36-45,Female,8,1,190160.1,190160.1,4,2,3,9,New / Recent
+CUST2757,Customer_366,Patna,46-55,Male,10,1,64048.05,64048.05,4,3,2,9,Loyal Customers
+CUST7724,Customer_365,Kolkata,36-45,Male,10,1,100442.24,100442.24,4,3,2,9,Loyal Customers
+CUST8583,Customer_290,Delhi,36-45,Female,12,1,35903.14,35903.14,4,4,1,9,Loyal Customers
+CUST1637,Customer_70,Patna,56-65,Male,13,1,20669.3,20669.3,4,4,1,9,Loyal Customers
+CUST7578,Customer_245,Delhi,36-45,Female,13,1,60346.48,60346.48,4,3,2,9,Loyal Customers
+CUST5005,Customer_176,Kolkata,18-25,Female,14,1,174940.92,174940.92,4,2,3,9,New / Recent
+CUST7164,Customer_251,Pune,56-65,Male,18,1,282545.1,282545.1,4,1,4,9,New / Recent
+CUST7504,Customer_183,Pune,46-55,Male,19,1,106265.28,106265.28,4,3,2,9,Loyal Customers
+CUST5413,Customer_20,Bengaluru,56-65,Male,20,1,217109.48,217109.48,4,1,4,9,New / Recent
+CUST6571,Customer_156,Pune,36-45,Female,22,1,75706.23,75706.23,4,3,2,9,Loyal Customers
+CUST4270,Customer_266,Kolkata,26-35,Male,24,1,458774.9,458774.9,4,1,4,9,New / Recent
+CUST8387,Customer_133,Bengaluru,46-55,Female,25,1,154238.45,154238.45,4,2,3,9,New / Recent
+CUST3741,Customer_461,Mumbai,56-65,Female,25,1,48583.48,48583.48,4,3,2,9,Loyal Customers
+CUST1443,Customer_315,Unknown,36-45,Female,26,1,25336.7,25336.7,4,4,1,9,Loyal Customers
+CUST8789,Customer_4,Delhi,46-55,Female,26,1,26647.6,26647.6,4,4,1,9,Loyal Customers
+CUST8729,Customer_72,Kolkata,46-55,Male,26,1,163132.56,163132.56,4,2,3,9,New / Recent
+CUST2791,Customer_20,Bengaluru,56-65,Female,26,1,246944.64,246944.64,4,1,4,9,New / Recent
+CUST9622,Customer_224,Kolkata,26-35,Male,28,1,28466.49,28466.49,4,4,1,9,Loyal Customers
+CUST9325,Customer_352,Mumbai,36-45,Female,29,1,87780.4,87780.4,4,3,2,9,Loyal Customers
+CUST7587,Customer_223,Pune,26-35,Male,29,1,408776.58,408776.58,4,1,4,9,New / Recent
+CUST1433,Customer_391,Mumbai,46-55,Female,29,1,108470.6,108470.6,4,3,2,9,Loyal Customers
+CUST1906,Customer_76,Hyderabad,36-45,Male,32,1,40714.7,40714.7,4,4,1,9,Loyal Customers
+CUST4751,Customer_260,Patna,18-25,Male,34,1,243462.6,243462.6,4,1,4,9,New / Recent
+CUST5389,Customer_362,Mumbai,36-45,Female,36,1,58707.36,58707.36,4,3,2,9,Loyal Customers
+CUST5569,Customer_188,Pune,26-35,Female,41,1,105715.35,105715.35,4,3,2,9,Loyal Customers
+CUST7033,Customer_359,Gaya,26-35,Male,42,1,156203.52,156203.52,4,2,3,9,New / Recent
+CUST4796,Customer_380,Bengaluru,36-45,Male,43,1,140365.9,140365.9,4,2,3,9,New / Recent
+CUST7609,Customer_327,Pune,36-45,Female,44,1,154958.15,154958.15,4,2,3,9,New / Recent
+CUST9651,Customer_461,Delhi,56-65,Female,44,1,242701.7,242701.7,4,1,4,9,New / Recent
+CUST6881,Customer_158,Delhi,36-45,Female,44,1,297463.11,297463.11,4,1,4,9,New / Recent
+CUST4845,Customer_401,Mumbai,18-25,Male,45,1,2599.12,2599.12,4,4,1,9,Loyal Customers
+CUST5468,Customer_463,Bengaluru,26-35,Male,47,1,299131.56,299131.56,4,1,4,9,New / Recent
+CUST4901,Customer_327,Mumbai,26-35,Female,49,1,47545.23,47545.23,4,4,1,9,Loyal Customers
+CUST3682,Customer_132,Kolkata,56-65,Female,50,1,144829.17,144829.17,4,2,3,9,New / Recent
+CUST1122,Customer_447,Kolkata,56-65,Female,53,1,122431.8,122431.8,4,2,3,9,New / Recent
+CUST8217,Customer_83,Delhi,36-45,Female,57,1,68529.18,68529.18,4,3,2,9,Loyal Customers
+CUST6002,Customer_83,Delhi,46-55,Male,59,1,214875.81,214875.81,4,2,3,9,New / Recent
+CUST4103,Customer_454,Pune,26-35,Male,63,1,63588.21,63588.21,4,3,2,9,Loyal Customers
+CUST9253,Customer_371,Pune,46-55,Female,65,1,215803.3,215803.3,4,1,4,9,New / Recent
+CUST2079,Customer_35,Mumbai,36-45,Male,68,1,323841.07,323841.07,4,1,4,9,New / Recent
+CUST9292,Customer_89,Bengaluru,26-35,Male,69,1,128637.6,128637.6,4,2,3,9,New / Recent
+CUST8023,Customer_118,Mumbai,46-55,Female,70,1,101845.28,101845.28,4,3,2,9,Loyal Customers
+CUST5988,Customer_266,Kolkata,36-45,Male,70,1,88672.76,88672.76,4,3,2,9,Loyal Customers
+CUST7806,Customer_4,Hyderabad,56-65,Female,71,1,81537,81537,4,3,2,9,Loyal Customers
+CUST1565,Customer_353,Delhi,26-35,Female,72,1,80289.8,80289.8,4,3,2,9,Loyal Customers
+CUST6152,Customer_438,Bengaluru,36-45,Female,73,1,118857.45,118857.45,4,2,3,9,New / Recent
+CUST5762,Customer_404,Mumbai,18-25,Female,74,1,31247.14,31247.14,4,4,1,9,Loyal Customers
+CUST9384,Customer_230,Mumbai,26-35,Female,75,1,20626.25,20626.25,4,4,1,9,Loyal Customers
+CUST3652,Customer_436,Hyderabad,56-65,Male,75,1,21496.95,21496.95,4,4,1,9,Loyal Customers
+CUST9817,Customer_388,Patna,36-45,Male,79,1,66300.43,66300.43,4,3,2,9,Loyal Customers
+CUST7445,Customer_233,Bengaluru,56-65,Female,80,1,321222.51,321222.51,4,1,4,9,New / Recent
+CUST4584,Customer_138,Pune,18-25,Female,80,1,462701.3,462701.3,4,1,4,9,New / Recent
+CUST1758,Customer_335,Patna,56-65,Male,80,1,299985.18,299985.18,4,1,4,9,New / Recent
+CUST3281,Customer_243,Pune,56-65,Female,93,1,190106.9,190106.9,3,3,3,9,Loyal Customers
+CUST1026,Customer_445,Kolkata,56-65,Female,95,1,164965.29,164965.29,3,3,3,9,Loyal Customers
+CUST7072,Customer_4,Gaya,56-65,Female,96,1,210619.12,210619.12,3,3,3,9,Loyal Customers
+CUST7188,Customer_180,Bengaluru,36-45,Male,98,2,88709.25,44354.63,3,4,2,9,Loyal Customers
+CUST2793,Customer_462,Gaya,26-35,Female,101,1,115263.96,115263.96,3,3,3,9,Loyal Customers
+CUST9849,Customer_264,Delhi,46-55,Female,103,1,192594.75,192594.75,3,3,3,9,Loyal Customers
+CUST5129,Customer_404,Bengaluru,46-55,Male,107,1,219522.18,219522.18,3,2,4,9,Potential Loyalist
+CUST4112,Customer_71,Kolkata,26-35,Female,112,1,51766.12,51766.12,3,4,2,9,Loyal Customers
+CUST2062,Customer_254,Patna,56-65,Male,115,1,493677.5,493677.5,3,2,4,9,Potential Loyalist
+CUST5233,Customer_108,Mumbai,26-35,Male,116,1,48906.12,48906.12,3,4,2,9,Loyal Customers
+CUST3078,Customer_230,Gaya,18-25,Male,123,1,76256.64,76256.64,3,4,2,9,Loyal Customers
+CUST6518,Customer_410,Hyderabad,36-45,Female,130,1,177138.7,177138.7,3,3,3,9,Loyal Customers
+CUST2565,Customer_360,Hyderabad,46-55,Female,130,1,146098.6,146098.6,3,3,3,9,Loyal Customers
+CUST6783,Customer_7,Kolkata,26-35,Male,130,1,189183.33,189183.33,3,3,3,9,Loyal Customers
+CUST1759,Customer_71,Delhi,56-65,Female,142,1,109150.3,109150.3,3,4,2,9,Loyal Customers
+CUST8871,Customer_345,Kolkata,36-45,Female,144,1,113857.04,113857.04,3,3,3,9,Loyal Customers
+CUST9175,Customer_441,Mumbai,36-45,Male,144,1,212252.94,212252.94,3,3,3,9,Loyal Customers
+CUST6228,Customer_466,Pune,36-45,Female,149,1,89287.2,89287.2,3,4,2,9,Loyal Customers
+CUST6173,Customer_51,Pune,18-25,Male,152,1,150268.72,150268.72,3,3,3,9,Loyal Customers
+CUST7676,Customer_42,Bengaluru,36-45,Female,152,1,405225.6,405225.6,3,2,4,9,Potential Loyalist
+CUST2094,Customer_165,Hyderabad,46-55,Female,166,1,113543.48,113543.48,3,3,3,9,Loyal Customers
+CUST8124,Customer_344,Pune,26-35,Female,172,1,87386.72,87386.72,3,4,2,9,Loyal Customers
+CUST2589,Customer_426,Delhi,46-55,Male,173,1,84392.92,84392.92,3,4,2,9,Loyal Customers
+CUST3567,Customer_407,Bengaluru,18-25,Male,177,1,300593.16,300593.16,3,2,4,9,Potential Loyalist
+CUST8408,Customer_249,Delhi,46-55,Female,179,1,122496.24,122496.24,3,3,3,9,Loyal Customers
+CUST2672,Customer_324,Pune,26-35,Female,182,1,191186.12,191186.12,2,4,3,9,At Risk
+CUST8164,Customer_156,Delhi,26-35,Female,186,1,309378.72,309378.72,2,3,4,9,At Risk
+CUST1928,Customer_17,Mumbai,26-35,Female,190,1,340497.71,340497.71,2,3,4,9,At Risk
+CUST6565,Customer_431,Gaya,46-55,Female,194,1,168646.62,168646.62,2,4,3,9,At Risk
+CUST4482,Customer_139,Pune,46-55,Male,209,1,421025.22,421025.22,2,3,4,9,At Risk
+CUST1960,Customer_367,Kolkata,36-45,Male,212,1,285213.69,285213.69,2,3,4,9,At Risk
+CUST8039,Customer_391,Kolkata,46-55,Female,220,1,170899.98,170899.98,2,4,3,9,At Risk
+CUST3679,Customer_242,Patna,46-55,Male,228,1,239465,239465,2,3,4,9,At Risk
+CUST5386,Customer_125,Gaya,46-55,Male,231,1,244476.54,244476.54,2,3,4,9,At Risk
+CUST8766,Customer_140,Hyderabad,46-55,Female,235,1,235105.5,235105.5,2,3,4,9,At Risk
+CUST5097,Customer_302,Mumbai,56-65,Female,238,1,185571.72,185571.72,2,4,3,9,At Risk
+CUST3228,Customer_209,Patna,46-55,Female,245,1,283052.58,283052.58,2,3,4,9,At Risk
+CUST8067,Customer_283,Patna,46-55,Female,245,1,261456.84,261456.84,2,3,4,9,At Risk
+CUST9724,Customer_220,Pune,26-35,Male,247,1,156221.6,156221.6,2,4,3,9,At Risk
+CUST9465,Customer_274,Gaya,56-65,Male,255,2,184323.94,92161.97,2,4,3,9,At Risk
+CUST3948,Customer_465,Hyderabad,36-45,Male,259,1,116728.5,116728.5,2,4,3,9,At Risk
+CUST3537,Customer_377,Pune,18-25,Female,260,1,141646.92,141646.92,2,4,3,9,At Risk
+CUST7544,Customer_225,Mumbai,26-35,Male,261,1,350933.9,350933.9,2,3,4,9,At Risk
+CUST3316,Customer_458,Patna,36-45,Female,264,1,261998.08,261998.08,2,3,4,9,At Risk
+CUST3759,Customer_313,Mumbai,56-65,Female,267,1,301283.73,301283.73,2,3,4,9,At Risk
+CUST7341,Customer_457,Hyderabad,46-55,Female,267,1,166562.96,166562.96,2,4,3,9,At Risk
+CUST4685,Customer_22,Gaya,26-35,Male,269,1,241032.51,241032.51,2,3,4,9,At Risk
+CUST4003,Customer_305,Bengaluru,46-55,Female,278,1,468522,468522,1,4,4,9,At Risk
+CUST9551,Customer_230,Bengaluru,18-25,Male,295,1,474935.9,474935.9,1,4,4,9,At Risk
+CUST8298,Customer_489,Delhi,36-45,Female,298,1,429431.7,429431.7,1,4,4,9,At Risk
+CUST6600,Customer_242,Bengaluru,56-65,Female,301,1,439266.33,439266.33,1,4,4,9,At Risk
+CUST5036,Customer_468,Patna,26-35,Male,305,1,299490.08,299490.08,1,4,4,9,At Risk
+CUST7374,Customer_375,Patna,56-65,Female,313,2,511309.4,255654.7,1,4,4,9,At Risk
+CUST8316,Customer_121,Hyderabad,56-65,Female,323,1,369482.04,369482.04,1,4,4,9,At Risk
+CUST5188,Customer_286,Gaya,46-55,Male,328,1,439499.43,439499.43,1,4,4,9,At Risk
+CUST2669,Customer_151,Bengaluru,46-55,Male,329,1,359291.92,359291.92,1,4,4,9,At Risk
+CUST8623,Customer_84,Hyderabad,26-35,Male,345,1,407455.5,407455.5,1,4,4,9,At Risk
+CUST8010,Customer_187,Hyderabad,36-45,Female,1,1,141200.44,141200.44,4,3,3,10,Loyal Customers
+CUST9957,Customer_116,Pune,26-35,Female,2,1,99838.56,99838.56,4,4,2,10,Loyal Customers
+CUST2867,Customer_221,Hyderabad,56-65,Male,6,1,257759.6,257759.6,4,2,4,10,New / Recent
+CUST7564,Customer_478,Patna,18-25,Female,10,1,176483.04,176483.04,4,3,3,10,Loyal Customers
+CUST1764,Customer_47,Hyderabad,18-25,Male,10,1,51751.06,51751.06,4,4,2,10,Loyal Customers
+CUST7863,Customer_316,Gaya,36-45,Female,11,1,202154,202154,4,3,3,10,Loyal Customers
+CUST3169,Customer_138,Delhi,36-45,Female,13,1,138808.11,138808.11,4,3,3,10,Loyal Customers
+CUST4089,Customer_79,Gaya,36-45,Male,15,1,112630.77,112630.77,4,3,3,10,Loyal Customers
+CUST8513,Customer_125,Pune,46-55,Female,16,1,228955.74,228955.74,4,2,4,10,New / Recent
+CUST3237,Customer_341,Kolkata,46-55,Female,18,1,270087.16,270087.16,4,2,4,10,New / Recent
+CUST6206,Customer_18,Kolkata,46-55,Male,21,1,302455.37,302455.37,4,2,4,10,New / Recent
+CUST4391,Customer_214,Hyderabad,36-45,Male,21,1,197421.55,197421.55,4,3,3,10,Loyal Customers
+CUST5926,Customer_308,Gaya,46-55,Male,21,1,311180.64,311180.64,4,2,4,10,New / Recent
+CUST3690,Customer_413,Delhi,26-35,Female,22,1,102479.94,102479.94,4,4,2,10,Loyal Customers
+CUST3751,Customer_270,Bengaluru,36-45,Male,23,1,69239.88,69239.88,4,4,2,10,Loyal Customers
+CUST7568,Customer_12,Gaya,56-65,Male,23,2,72887.06,36443.53,4,4,2,10,Loyal Customers
+CUST3966,Customer_338,Hyderabad,46-55,Female,27,1,120078.24,120078.24,4,3,3,10,Loyal Customers
+CUST7613,Customer_432,Mumbai,18-25,Male,27,1,394778.24,394778.24,4,2,4,10,New / Recent
+CUST5249,Customer_236,Pune,56-65,Male,28,1,116373.8,116373.8,4,3,3,10,Loyal Customers
+CUST6238,Customer_258,Gaya,46-55,Male,29,1,259301,259301,4,2,4,10,New / Recent
+CUST7473,Customer_372,Mumbai,36-45,Female,33,1,200523.55,200523.55,4,3,3,10,Loyal Customers
+CUST7937,Customer_158,Mumbai,36-45,Female,34,1,223776.99,223776.99,4,2,4,10,New / Recent
+CUST8657,Customer_495,Delhi,56-65,Female,35,1,444016.4,444016.4,4,2,4,10,New / Recent
+CUST7501,Customer_2,Gaya,36-45,Female,37,1,51679.6,51679.6,4,4,2,10,Loyal Customers
+CUST1406,Customer_499,Gaya,46-55,Male,40,1,315765,315765,4,2,4,10,New / Recent
+CUST2423,Customer_376,Hyderabad,18-25,Male,43,1,113778.84,113778.84,4,3,3,10,Loyal Customers
+CUST7933,Customer_232,Bengaluru,46-55,Male,50,1,91236,91236,4,4,2,10,Loyal Customers
+CUST2350,Customer_205,Pune,46-55,Male,55,1,101171.88,101171.88,4,4,2,10,Loyal Customers
+CUST7104,Customer_498,Mumbai,26-35,Male,55,1,245061.25,245061.25,4,2,4,10,New / Recent
+CUST4650,Customer_370,Delhi,26-35,Male,56,1,143752.47,143752.47,4,3,3,10,Loyal Customers
+CUST2295,Customer_319,Mumbai,56-65,Male,59,1,238983.9,238983.9,4,2,4,10,New / Recent
+CUST2025,Customer_239,Delhi,36-45,Female,62,1,98774.4,98774.4,4,4,2,10,Loyal Customers
+CUST8907,Customer_51,Hyderabad,46-55,Male,71,1,288940.95,288940.95,4,2,4,10,New / Recent
+CUST5079,Customer_348,Bengaluru,36-45,Female,72,1,267836.96,267836.96,4,2,4,10,New / Recent
+CUST9612,Customer_463,Kolkata,18-25,Male,72,1,66134.2,66134.2,4,4,2,10,Loyal Customers
+CUST9910,Customer_110,Hyderabad,18-25,Male,77,1,90068.24,90068.24,4,4,2,10,Loyal Customers
+CUST4655,Customer_167,Kolkata,26-35,Male,78,1,239811.81,239811.81,4,2,4,10,New / Recent
+CUST5621,Customer_427,Delhi,56-65,Female,80,1,134832.67,134832.67,4,3,3,10,Loyal Customers
+CUST7317,Customer_70,Delhi,46-55,Female,82,2,138811.2,69405.6,3,4,3,10,Loyal Customers
+CUST5523,Customer_432,Pune,36-45,Male,91,1,277513.83,277513.83,3,3,4,10,Loyal Customers
+CUST1401,Customer_151,Delhi,26-35,Male,92,1,254734.06,254734.06,3,3,4,10,Loyal Customers
+CUST9287,Customer_281,Bengaluru,46-55,Female,96,2,163555.53999999998,81777.77,3,4,3,10,Loyal Customers
+CUST1887,Customer_209,Hyderabad,18-25,Male,98,1,277415.76,277415.76,3,3,4,10,Loyal Customers
+CUST7062,Customer_92,Bengaluru,46-55,Male,106,1,180509.76,180509.76,3,4,3,10,Loyal Customers
+CUST4737,Customer_367,Patna,18-25,Female,113,1,180858.3,180858.3,3,4,3,10,Loyal Customers
+CUST9645,Customer_238,Pune,26-35,Male,113,2,131738.91999999998,65869.46,3,4,3,10,Loyal Customers
+CUST3023,Customer_223,Gaya,36-45,Female,117,1,368979.6,368979.6,3,3,4,10,Loyal Customers
+CUST6444,Customer_251,Mumbai,18-25,Female,118,1,259787.34,259787.34,3,3,4,10,Loyal Customers
+CUST6067,Customer_316,Patna,46-55,Male,119,2,209823.08000000002,104911.54,3,4,3,10,Loyal Customers
+CUST3714,Customer_295,Patna,36-45,Female,120,1,165724.79,165724.79,3,4,3,10,Loyal Customers
+CUST3745,Customer_138,Hyderabad,46-55,Female,120,1,217666.56,217666.56,3,3,4,10,Loyal Customers
+CUST4167,Customer_113,Kolkata,36-45,Female,131,1,249899.04,249899.04,3,3,4,10,Loyal Customers
+CUST6389,Customer_484,Kolkata,26-35,Male,135,1,313519.95,313519.95,3,3,4,10,Loyal Customers
+CUST1463,Customer_257,Gaya,56-65,Female,136,2,173654.34000000003,86827.17,3,4,3,10,Loyal Customers
+CUST5605,Customer_23,Kolkata,26-35,Female,139,1,126051.16,126051.16,3,4,3,10,Loyal Customers
+CUST5585,Customer_289,Kolkata,26-35,Male,152,1,258727.23,258727.23,3,3,4,10,Loyal Customers
+CUST2597,Customer_354,Kolkata,18-25,Male,152,1,287434.35,287434.35,3,3,4,10,Loyal Customers
+CUST8962,Customer_440,Kolkata,26-35,Female,155,1,254006.73,254006.73,3,3,4,10,Loyal Customers
+CUST1762,Customer_141,Delhi,26-35,Male,157,1,123899.8,123899.8,3,4,3,10,Loyal Customers
+CUST5806,Customer_167,Bengaluru,46-55,Male,162,2,143666.99,71833.49,3,4,3,10,Loyal Customers
+CUST8515,Customer_445,Mumbai,18-25,Male,162,1,236398.82,236398.82,3,3,4,10,Loyal Customers
+CUST3094,Customer_47,Bengaluru,46-55,Female,164,1,343480.48,343480.48,3,3,4,10,Loyal Customers
+CUST1673,Customer_103,Gaya,18-25,Male,166,1,175604.15,175604.15,3,4,3,10,Loyal Customers
+CUST3618,Customer_131,Pune,26-35,Male,178,1,330723.9,330723.9,3,3,4,10,Loyal Customers
+CUST7416,Customer_191,Hyderabad,46-55,Female,195,1,482551.9,482551.9,2,4,4,10,At Risk
+CUST9469,Customer_154,Mumbai,36-45,Female,199,2,232888.33,116444.16,2,4,4,10,At Risk
+CUST9381,Customer_10,Patna,46-55,Male,200,2,441863.7,220931.85,2,4,4,10,At Risk
+CUST7388,Customer_6,Hyderabad,46-55,Male,203,1,267400.44,267400.44,2,4,4,10,At Risk
+CUST4982,Customer_370,Delhi,26-35,Male,206,1,439972.2,439972.2,2,4,4,10,At Risk
+CUST3689,Customer_179,Delhi,36-45,Female,209,2,542484.08,271242.04,2,4,4,10,At Risk
+CUST6780,Customer_262,Hyderabad,36-45,Female,211,1,269519.53,269519.53,2,4,4,10,At Risk
+CUST3024,Customer_332,Patna,18-25,Female,220,1,242884.38,242884.38,2,4,4,10,At Risk
+CUST7876,Customer_34,Bengaluru,56-65,Male,225,1,402956.64,402956.64,2,4,4,10,At Risk
+CUST2403,Customer_258,Pune,18-25,Male,230,1,237978.32,237978.32,2,4,4,10,At Risk
+CUST8820,Customer_339,Kolkata,36-45,Female,231,1,294353.64,294353.64,2,4,4,10,At Risk
+CUST8887,Customer_487,Bengaluru,56-65,Female,234,1,299928.48,299928.48,2,4,4,10,At Risk
+CUST9510,Customer_345,Kolkata,18-25,Female,237,2,867333.24,433666.62,2,4,4,10,At Risk
+CUST3044,Customer_27,Bengaluru,56-65,Female,241,1,318554.4,318554.4,2,4,4,10,At Risk
+CUST4037,Customer_205,Kolkata,26-35,Male,242,1,470798.6,470798.6,2,4,4,10,At Risk
+CUST9233,Customer_485,Hyderabad,26-35,Male,243,1,363317.5,363317.5,2,4,4,10,At Risk
+CUST2969,Customer_287,Kolkata,56-65,Male,243,1,237972.6,237972.6,2,4,4,10,At Risk
+CUST4002,Customer_388,Gaya,18-25,Female,244,1,234114.2,234114.2,2,4,4,10,At Risk
+CUST9486,Customer_19,Hyderabad,26-35,Male,259,1,432103.32,432103.32,2,4,4,10,At Risk
+CUST8708,Customer_293,Kolkata,56-65,Male,259,2,458065.57000000007,229032.79,2,4,4,10,At Risk
+CUST9693,Customer_343,Patna,46-55,Male,265,2,511421.86,255710.93,2,4,4,10,At Risk
+CUST1231,Customer_339,Patna,46-55,Male,1,1,187087.76,187087.76,4,4,3,11,Loyal Customers
+CUST2779,Customer_336,Patna,36-45,Female,10,1,178648.82,178648.82,4,4,3,11,Loyal Customers
+CUST6111,Customer_388,Kolkata,18-25,Male,11,2,156256.16,78128.08,4,4,3,11,Loyal Customers
+CUST8947,Customer_375,Patna,56-65,Female,14,1,146639.61,146639.61,4,4,3,11,Loyal Customers
+CUST8754,Customer_77,Kolkata,26-35,Male,24,1,173173.12,173173.12,4,4,3,11,Loyal Customers
+CUST9285,Customer_452,Gaya,46-55,Female,24,1,223298.32,223298.32,4,3,4,11,Loyal Customers
+CUST7068,Customer_106,Hyderabad,18-25,Male,32,1,292060.48,292060.48,4,3,4,11,Loyal Customers
+CUST6791,Customer_430,Pune,18-25,Female,36,1,148740.85,148740.85,4,4,3,11,Loyal Customers
+CUST8649,Customer_160,Gaya,26-35,Male,37,1,420808.14,420808.14,4,3,4,11,Loyal Customers
+CUST7091,Customer_1,Mumbai,46-55,Female,38,1,237573.1,237573.1,4,3,4,11,Loyal Customers
+CUST9421,Customer_213,Patna,56-65,Male,43,2,115788.23999999999,57894.12,4,4,3,11,Loyal Customers
+CUST3508,Customer_163,Pune,56-65,Female,49,2,192315.52000000002,96157.76,4,4,3,11,Loyal Customers
+CUST9788,Customer_229,Hyderabad,56-65,Male,51,1,138165.76,138165.76,4,4,3,11,Loyal Customers
+CUST8242,Customer_492,Mumbai,46-55,Male,56,1,235460.7,235460.7,4,3,4,11,Loyal Customers
+CUST6410,Customer_301,Gaya,56-65,Male,56,1,318649.86,318649.86,4,3,4,11,Loyal Customers
+CUST5876,Customer_389,Patna,36-45,Female,56,1,222899.82,222899.82,4,3,4,11,Loyal Customers
+CUST1997,Customer_437,Patna,36-45,Male,57,2,136106.62,68053.31,4,4,3,11,Loyal Customers
+CUST7824,Customer_21,Pune,18-25,Male,57,2,185204.61,92602.3,4,4,3,11,Loyal Customers
+CUST2542,Customer_219,Hyderabad,36-45,Male,58,1,431463.9,431463.9,4,3,4,11,Loyal Customers
+CUST6316,Customer_59,Pune,36-45,Male,62,1,311126.04,311126.04,4,3,4,11,Loyal Customers
+CUST3668,Customer_415,Patna,56-65,Male,62,1,280078.14,280078.14,4,3,4,11,Loyal Customers
+CUST8686,Customer_404,Patna,56-65,Female,66,1,175530.12,175530.12,4,4,3,11,Loyal Customers
+CUST3887,Customer_371,Mumbai,56-65,Female,68,1,169196.64,169196.64,4,4,3,11,Loyal Customers
+CUST4722,Customer_390,Bengaluru,56-65,Male,71,1,217967.64,217967.64,4,3,4,11,Loyal Customers
+CUST2870,Customer_311,Unknown,18-25,Female,79,2,211801.52,105900.76,4,4,3,11,Loyal Customers
+CUST5524,Customer_154,Hyderabad,36-45,Male,79,1,128419.56,128419.56,4,4,3,11,Loyal Customers
+CUST4041,Customer_433,Bengaluru,26-35,Female,82,2,173329.08,86664.54,4,4,3,11,Loyal Customers
+CUST4106,Customer_226,Gaya,26-35,Male,86,1,299498.92,299498.92,3,4,4,11,Loyal Customers
+CUST6442,Customer_10,Kolkata,56-65,Male,89,1,429297.21,429297.21,3,4,4,11,Loyal Customers
+CUST3129,Customer_138,Hyderabad,36-45,Male,90,1,376842.87,376842.87,3,4,4,11,Loyal Customers
+CUST9942,Customer_466,Kolkata,26-35,Female,93,2,315539.87,157769.93,3,4,4,11,Loyal Customers
+CUST3006,Customer_343,Hyderabad,46-55,Male,102,2,351367.34,175683.67,3,4,4,11,Loyal Customers
+CUST1710,Customer_355,Hyderabad,46-55,Female,107,1,440456.6,440456.6,3,4,4,11,Loyal Customers
+CUST4829,Customer_202,Mumbai,18-25,Female,111,1,333996.4,333996.4,3,4,4,11,Loyal Customers
+CUST8813,Customer_83,Bengaluru,46-55,Male,119,1,350597.34,350597.34,3,4,4,11,Loyal Customers
+CUST4137,Customer_51,Mumbai,46-55,Male,124,2,333360.55,166680.27,3,4,4,11,Loyal Customers
+CUST9307,Customer_274,Hyderabad,36-45,Female,125,2,390387.42,195193.71,3,4,4,11,Loyal Customers
+CUST9303,Customer_321,Kolkata,36-45,Female,130,1,376981.83,376981.83,3,4,4,11,Loyal Customers
+CUST6532,Customer_348,Pune,26-35,Male,133,2,610981.74,305490.87,3,4,4,11,Loyal Customers
+CUST2904,Customer_269,Bengaluru,56-65,Female,142,1,412680.6,412680.6,3,4,4,11,Loyal Customers
+CUST1479,Customer_375,Bengaluru,26-35,Female,149,1,317305.7,317305.7,3,4,4,11,Loyal Customers
+CUST9081,Customer_448,Hyderabad,18-25,Male,152,2,386309.13,193154.57,3,4,4,11,Loyal Customers
+CUST4869,Customer_392,Kolkata,36-45,Male,158,1,485667.8,485667.8,3,4,4,11,Loyal Customers
+CUST3773,Customer_181,Patna,26-35,Male,163,2,412403.57999999996,206201.79,3,4,4,11,Loyal Customers
+CUST7814,Customer_134,Bengaluru,18-25,Female,165,1,331893.24,331893.24,3,4,4,11,Loyal Customers
+CUST3730,Customer_397,Gaya,56-65,Female,168,2,538633.97,269316.98,3,4,4,11,Loyal Customers
+CUST9709,Customer_409,Pune,36-45,Male,175,1,378037.6,378037.6,3,4,4,11,Loyal Customers
+CUST1468,Customer_266,Kolkata,46-55,Female,179,1,359775.2,359775.2,3,4,4,11,Loyal Customers
+CUST6845,Customer_337,Hyderabad,26-35,Male,1,2,769479.75,384739.88,4,4,4,12,Champions
+CUST4706,Customer_200,Bengaluru,26-35,Male,1,2,528036.44,264018.22,4,4,4,12,Champions
+CUST3952,Customer_71,Hyderabad,36-45,Female,2,1,323527.23,323527.23,4,4,4,12,Champions
+CUST6704,Customer_335,Mumbai,18-25,Female,4,2,452333.24,226166.62,4,4,4,12,Champions
+CUST6407,Customer_157,Delhi,26-35,Female,5,2,315050.32,157525.16,4,4,4,12,Champions
+CUST1994,Customer_390,Pune,46-55,Male,7,2,238881.24,119440.62,4,4,4,12,Champions
+CUST4569,Customer_238,Patna,36-45,Male,8,1,419975.28,419975.28,4,4,4,12,Champions
+CUST4996,Customer_184,Delhi,56-65,Male,12,2,257757.48,128878.74,4,4,4,12,Champions
+CUST2794,Customer_219,Mumbai,36-45,Male,15,2,284872.06,142436.03,4,4,4,12,Champions
+CUST9089,Customer_177,Patna,18-25,Male,17,2,469247.1,234623.55,4,4,4,12,Champions
+CUST7037,Customer_45,Mumbai,26-35,Male,18,1,405004.41,405004.41,4,4,4,12,Champions
+CUST2515,Customer_470,Kolkata,56-65,Female,24,3,431192.86,143730.95,4,4,4,12,Champions
+CUST7026,Customer_105,Bengaluru,36-45,Female,25,2,262752.56,131376.28,4,4,4,12,Champions
+CUST3763,Customer_257,Hyderabad,56-65,Male,29,2,294488.9,147244.45,4,4,4,12,Champions
+CUST4363,Customer_161,Delhi,26-35,Female,33,1,401091.2,401091.2,4,4,4,12,Champions
+CUST5624,Customer_25,Patna,18-25,Male,36,1,319922.96,319922.96,4,4,4,12,Champions
+CUST2242,Customer_331,Delhi,46-55,Female,39,1,349767.9,349767.9,4,4,4,12,Champions
+CUST8225,Customer_468,Bengaluru,56-65,Male,41,1,311660.72,311660.72,4,4,4,12,Champions
+CUST6658,Customer_274,Patna,56-65,Male,44,1,285180.93,285180.93,4,4,4,12,Champions
+CUST3002,Customer_57,Mumbai,56-65,Male,44,1,219937.28,219937.28,4,4,4,12,Champions
+CUST5363,Customer_423,Delhi,56-65,Male,45,2,265314.63,132657.32,4,4,4,12,Champions
+CUST3972,Customer_336,Gaya,18-25,Male,46,1,240883.83,240883.83,4,4,4,12,Champions
+CUST4264,Customer_304,Patna,26-35,Female,48,1,278427.28,278427.28,4,4,4,12,Champions
+CUST7277,Customer_320,Mumbai,56-65,Female,51,1,291741.38,291741.38,4,4,4,12,Champions
+CUST9966,Customer_199,Kolkata,36-45,Male,57,2,399939.3,199969.65,4,4,4,12,Champions
+CUST3366,Customer_47,Patna,18-25,Male,63,2,360570.11,180285.05,4,4,4,12,Champions
+CUST6311,Customer_257,Mumbai,56-65,Female,63,1,301320.63,301320.63,4,4,4,12,Champions
+CUST8154,Customer_224,Pune,46-55,Female,66,1,425608.74,425608.74,4,4,4,12,Champions
+CUST8053,Customer_159,Mumbai,46-55,Female,68,2,461478.98,230739.49,4,4,4,12,Champions
+CUST9209,Customer_233,Mumbai,18-25,Female,70,2,280214.68000000005,140107.34,4,4,4,12,Champions
+CUST7484,Customer_478,Gaya,36-45,Male,70,1,223452.45,223452.45,4,4,4,12,Champions
+CUST6082,Customer_301,Mumbai,56-65,Male,70,2,548416.39,274208.2,4,4,4,12,Champions
+CUST1808,Customer_150,Patna,56-65,Male,73,1,218701.12,218701.12,4,4,4,12,Champions
+CUST9123,Customer_395,Mumbai,26-35,Female,73,1,270574.5,270574.5,4,4,4,12,Champions
+CUST6748,Customer_2,Patna,36-45,Female,82,1,396906.8,396906.8,4,4,4,12,Champions
